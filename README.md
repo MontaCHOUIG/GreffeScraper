@@ -30,5 +30,19 @@ For each “Greffe des associations” entry, the scraper retrieves:
 - Email (if available)
 - Website link (if available)
 - Opening hours / additional notes (if present)
-### Website link
+## Website link
   https://lannuaire.service-public.gouv.fr/recherche?whoWhat=Greffe+des+associations
+
+## Legal Acquisitions and compliance
+
+This scraper complies with open data principles and public information access laws in France.
+All collected information originates from official public sources — specifically the Service-Public Annuaire website — which publishes data intended for public consultation.
+
+### The project:
+
+Does not collect personal data beyond publicly available institutional contact information.
+
+Respects the site's robots.txt and usage policies, including applying reasonable delays (time.sleep() / WebDriverWait) to prevent excessive requests.
+
+Is intended solely for educational, research, and analytical purposes, not for resale, marketing, or any form of commercial exploitation.
+
