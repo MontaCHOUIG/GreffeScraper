@@ -14,7 +14,7 @@ It replaces tedious manual collection by automatically browsing and parsing the 
 - Performs automated searches for “Greffe des associations” on Service-Public Annuaire
 - Handles pagination to scrape all pages of results
 - Opens each result’s detail page to extract key data fields
-- Exports the scraped data to CSV or JSON
+- Exports the scraped data to CSV
 - Includes error handling, waits, and retry mechanisms for stability
 - Uses `time.sleep()` or `WebDriverWait` to avoid overloading the site
 - Cleans and formats the output for analysis or reuse
