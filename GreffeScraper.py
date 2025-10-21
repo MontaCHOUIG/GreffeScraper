@@ -48,7 +48,7 @@ def parse_detail(driver, url):
     body_text = driver.find_element(By.TAG_NAME, "body").text
     if "renforce temporairement son dispositif" in body_text:
         print("  ⚠️  Page blocked, waiting and retrying...")
-        time.sleep(15)
+        time.sleep(60)
         driver.get(url)
         time.sleep(5)
         body_text = driver.find_element(By.TAG_NAME, "body").text
@@ -65,9 +65,15 @@ def parse_detail(driver, url):
         pass
     
     # Get phone from page text - improved regex
-    phone_match = re.search(r"(?:Téléphone|Tel)[:\s]+([+\d\s]{10,})", body_text, re.IGNORECASE)
-    if not phone_match:
+    phone = ""
+    phone_match = re.search(r"(?:Téléphone|Tel)[:\s]+([+\d\s\.]{10,})", body_text, re.IGNORECASE)
+    if phone_match:
+        phone = phone_match.group(1).strip()
+    else:
+        # Try alternative pattern for direct phone numbers
         phone_match = re.search(r"((?:0|\+33)[1-9](?:[\s\.]?\d{2}){4})", body_text)
+        if phone_match:
+            phone = phone_match.group(1).strip()
     
     # Get email - avoid the share link
     email = ""
@@ -120,7 +126,7 @@ def parse_detail(driver, url):
     return {
         "name": name,
         "address": addr,
-        "phone": phone_match.group(0) if phone_match else "",
+        "phone": phone,
         "email": email,
         "region": region,
         "city": city,

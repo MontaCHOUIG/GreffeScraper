@@ -1,605 +1,246 @@
-name,address,phone,email,region,city,lat,lon,url
-Greffe des associations - Paris,Préfecture de police Section des Associations 1 bis rue de Luté¨ce 75004 Paris France,,,ile-de-france,paris,48.85458,2.34642,https://lannuaire.service-public.gouv.fr/ile-de-france/paris/4d74e610-9749-4dae-add1-3450f2ccae00
-Greffe des associations - Hérault,"Direction Départementale de l'Emploi, du Travail et des Solidarités DDETS 34 615 Boulevard Antigone 34000 Montpellier France"," 
-04 99 99 99 99
-",ddets-associations@herault.gouv.fr,occitanie,herault,43.60908,3.890556,https://lannuaire.service-public.gouv.fr/occitanie/herault/ab0bf5e8-a460-4358-9adc-aebc2ecf5d4d
-Greffe des associations - Nord (Cambrai),Service des associations Sous-préfecture de Cambrai 3 place Fénelon 59400 Cambrai France," 
-03 27 72 59 59
-",sous-prefecture-de-cambrai@nord.gouv.fr,hauts-de-france,nord,50.176388,3.2291715,https://lannuaire.service-public.gouv.fr/hauts-de-france/nord/01b9081c-4866-42bf-869f-0d277d018e5a
-Greffe des associations - Creuse (Guéret),1 place Varillas 23000 Guéret France," 
-08 10 01 23 23
-",,nouvelle-aquitaine,creuse,46.17008,1.8704271,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/creuse/02446682-5093-465e-a51d-dc9b00c23b1f
-Greffe des associations - Moselle (Sarrebourg),Tribunal d'instance de Sarrebourg 52 avenue Clemenceau 57400 Sarrebourg France," 
-03 87 23 71 82
-",associations-ti-sarrebourg@justice.fr,grand-est,moselle,48.73269,7.055475,https://lannuaire.service-public.gouv.fr/grand-est/moselle/028c5e5a-3394-4d6b-92a2-69a86953f5d5
-Greffe des associations - Lot (Gourdon),Sous-préfecture de Gourdon Bureau des associations 62 boulevard Aristide-Briand 46300 Gourdon France," 
-05 65 41 00 08
-",sp-gourdon@lot.gouv.fr,occitanie,lot,44.736195,1.3803262,https://lannuaire.service-public.gouv.fr/occitanie/lot/0692a596-756e-4731-980d-11c9f7b2a3c5
-Greffe des associations - Nié¨vre (Clamecy),Sous-préfecture de Clamecy 38 rue Jean-Jauré¨s 58500 Clamecy France," 
-03 86 27 53 53
-",sous-prefecture-de-clamecy@nievre.gouv.fr,bourgogne-franche-comte,nievre,47.46038,3.517887,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/nievre/0c241fa8-0225-4d03-9dcd-ada688e2a51a
-Greffe des associations - Nord (Dunkerque),Sous-préfecture de Dunkerque 27 rue Thiers 59140 Dunkerque France," 
-03 28 20 59 82
-",sp-dunkerque-associations@nord.gouv.fr,hauts-de-france,nord,51.031048,2.3721614,https://lannuaire.service-public.gouv.fr/hauts-de-france/nord/0db57209-fc12-4844-9e7f-dbaa7f6e1d37
-Greffe des associations - Gironde (Arcachon),Sous-préfecture d'Arcachon Service des associations 55 boulevard du Général-Leclerc 33120 Arcachon," 
-05 56 90 60 60
-",dsden33-associations@ac-bordeaux.fr,nouvelle-aquitaine,gironde,44.660145,-1.167542,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/gironde/154abd96-c6a2-49d9-900b-e4e581965301
-Greffe des associations - Yvelines (Versailles),Direction de la réglementation et des collectivités territoriales Préfecture des Yvelines 1 rue Jean-Houdon 78010 Versailles Cedex France," 
-01 39 49 77 11
-01 39 49 77 09
-",pref-associations@yvelines.gouv.fr,ile-de-france,yvelines,48.80192,2.133219,https://lannuaire.service-public.gouv.fr/ile-de-france/yvelines/15f3d825-7a7f-42c7-8a9d-f7dfa4446abc
-Greffe des associations - Oise (Beauvais),Préfecture de l'Oise Espace Saint-Quentin 1 place de la préfecture 60000 Beauvais France," 
-03 44 06 12 60
-",pref-greffe-asso@oise.gouv.fr,hauts-de-france,oise,49.437397,2.073626,https://lannuaire.service-public.gouv.fr/hauts-de-france/oise/1b771cb2-d254-4d2c-a309-665604033ce5
-Greffe des associations - Gers (Auch),Préfecture du Gers 3 place du Préfet-Claude-é‰rignac 32000 Auch France," 
-05 62 61 43 72
-",pref-associations@gers.gouv.fr,occitanie,gers,43.64638,0.586709,https://lannuaire.service-public.gouv.fr/occitanie/gers/1e7737de-bf6d-404e-bedf-2f36ad0f5904
-Greffe des associations - Gironde (Bordeaux),Préfecture de la Gironde Direction de la citoyenneté et de la légalité 2 esplanade Charles-de-Gaulle 33000 Bordeaux France," 
-05 56 90 63 31
-",pref-dcl-greffe@gironde.gouv.fr,nouvelle-aquitaine,gironde,44.848312,-0.5978555,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/gironde/202da187-a949-48d6-a4b5-41bbef8f2504
-Greffe des associations - Lot (Cahors),Préfecture du Lot Cité Bessié¨res Rue Pierre-Mendes-France 46000 Cahors France," 
-05 65 23 10 00
-",pref-associations@lot.gouv.fr,occitanie,lot,44.451714,1.438363,https://lannuaire.service-public.gouv.fr/occitanie/lot/2366490d-4dc8-49b0-b5f0-9ae1624d272c
-Greffe des associations - Lot (Figeac),Sous-préfecture de Figeac Bureau des associations 22 rue Caviale 46100 Figeac France," 
-05 65 34 04 15
-05 65 34 89 86
-",sp-figeac@lot.gouv.fr,occitanie,lot,44.608665,2.032748,https://lannuaire.service-public.gouv.fr/occitanie/lot/2577d8ef-20a9-4b09-a878-c9aaf2a9a641
-Greffe des associations - Jura (Dole),23 place Sous-Préfecture 39100 Dole France," 
-03 84 79 44 00
-03 84 79 44 11
-",spdole@jura.gouv.fr,bourgogne-franche-comte,jura,47.09372,5.492973,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/jura/282b4ef0-9f09-49f5-86e5-5e754014ba1c
-Greffe des associations - Creuse (Aubusson),Sous-préfecture d'Aubusson 5 rue Saint-Jean 23200 Aubusson France," 
-05 55 51 59 00
-",pref-associations@creuse.gouv.fr,nouvelle-aquitaine,creuse,45.954094,2.1688652,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/creuse/3329c055-ba5e-4999-8edf-e72c7b851119
-Greffe des associations - Doubs (Pontarlier),Sous-préfecture 69 rue de la République 25300 Pontarlier France," 
-03 81 39 81 39
-",prefecture@doubs.gouv.fr,bourgogne-franche-comte,doubs,46.903805,6.354288,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/doubs/332a4dfa-64fe-4758-b614-fd38290f95d5
-Greffe des associations - Indre (Issoudun),Sous-préfecture d'Issoudun Bureau des associations 7 place Saint-Jean 36100 Issoudun France," 
-02 54 03 50 00
-",sp-issoudun@indre.gouv.fr,centre-val-de-loire,indre,46.947292,1.995727,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/indre/334223ad-9f6e-4fe9-b6c0-038eeb0dbe7f
-Greffe des associations - Gironde (Langon),Sous-préfecture de Langon Service des associations 19 cours des Fossés 33210 Langon France," 
-05 56 90 60 60
-",sp-langon@gironde.gouv.fr,nouvelle-aquitaine,gironde,44.555374,-0.2487682,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/gironde/34e727d2-b0b7-48da-b13a-01702b905f00
-Greffe des associations - Cher (Bourges),Place Marcel-Plaisant 18000 Bourges," 
-02 48 67 18 18
-",pref-associations@cher.gouv.fr,centre-val-de-loire,cher,47.08099,2.398108,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/cher/35982a36-2a9a-48a8-9ebe-ffa18baef8de
-Greffe des associations - Gironde (Blaye),Sous-préfecture de Blaye Bureau des associations 4 rue André-Lafon 33390 Blaye France," 
-05 56 90 60 60
-",sp-blaye@gironde.gouv.fr,nouvelle-aquitaine,gironde,45.126694,-0.660527,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/gironde/3bee750e-4fb6-40af-9070-f54c3c2e1d35
-Greffe des associations - Nié¨vre (Nevers),Service des associations Préfecture de la Nié¨vre 40 rue de la Préfecture 58026 Nevers Cedex France," 
-03 86 60 70 80
-",courrier@nievre.gouv.fr,bourgogne-franche-comte,nievre,46.993374,3.162801,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/nievre/45545664-8534-44cc-8030-d6f78bce11dd
-Greffe des associations - Gard (Alé¨s),Sous-préfecture d'Alé¨s 3 boulevard Louis-Blanc 30100 Alé¨s France," 
-04 66 56 39 17
-",pref-associations@gard.gouv.fr,occitanie,gard,44.126717,4.080306,https://lannuaire.service-public.gouv.fr/occitanie/gard/4645ca8c-7384-448f-8efe-eeb6d4da124b
-Greffe des associations - Vosges (é‰pinal),Préfecture des Vosges Bureau des associations Place Foch 88000 é‰pinal France," 
-03 29 69 88 88
-",pref-associations@vosges.gouv.fr,grand-est,vosges,48.172993,6.4484434,https://lannuaire.service-public.gouv.fr/grand-est/vosges/47e00676-01f2-42ee-8ea3-ca6119cab329
-Greffe des associations - Nord (Douai),Service des associations Sous-préfecture de Douai 642 boulevard Albert-1er 59500 Douai France," 
-03 27 93 59 87
+name,address,phone,email,region,city,lat,lon
+Greffe des associations - Paris,Préfecture de police Section des Associations 1 bis rue de Lutèce 75004 Paris France,,,ile-de-france,paris,48.85458,2.34642
+Greffe des associations - Hérault,"Direction Départementale de l'Emploi, du Travail et des Solidarités DDETS 34 615 Boulevard Antigone 34000 Montpellier France",04 99 99 99 99,ddets-associations@herault.gouv.fr,occitanie,herault,43.60908,3.890556
+Greffe des associations - Nord (Cambrai),Service des associations Sous-préfecture de Cambrai 3 place Fénelon 59400 Cambrai France,03 27 72 59 59,sous-prefecture-de-cambrai@nord.gouv.fr,hauts-de-france,nord,50.176388,3.2291715
+Greffe des associations - Creuse (Guéret),1 place Varillas 23000 Guéret France,08 10 01 23 23,,nouvelle-aquitaine,creuse,46.17008,1.8704271
+Greffe des associations - Moselle (Sarrebourg),Tribunal d'instance de Sarrebourg 52 avenue Clemenceau 57400 Sarrebourg France,03 87 23 71 82,associations-ti-sarrebourg@justice.fr,grand-est,moselle,48.73269,7.055475
+Greffe des associations - Lot (Gourdon),Sous-préfecture de Gourdon Bureau des associations 62 boulevard Aristide-Briand 46300 Gourdon France,05 65 41 00 08,sp-gourdon@lot.gouv.fr,occitanie,lot,44.736195,1.3803262
+Greffe des associations - Nièvre (Clamecy),Sous-préfecture de Clamecy 38 rue Jean-Jaurès 58500 Clamecy France,03 86 27 53 53,sous-prefecture-de-clamecy@nievre.gouv.fr,bourgogne-franche-comte,nievre,47.46038,3.517887
+Greffe des associations - Nord (Dunkerque),Sous-préfecture de Dunkerque 27 rue Thiers 59140 Dunkerque France,03 28 20 59 82,sp-dunkerque-associations@nord.gouv.fr,hauts-de-france,nord,51.031048,2.3721614
+Greffe des associations - Gironde (Arcachon),Sous-préfecture d'Arcachon Service des associations 55 boulevard du Général-Leclerc 33120 Arcachon,05 56 90 60 60,dsden33-associations@ac-bordeaux.fr,nouvelle-aquitaine,gironde,44.660145,-1.167542
+Greffe des associations - Yvelines (Versailles),Direction de la réglementation et des collectivités territoriales Préfecture des Yvelines 1 rue Jean-Houdon 78010 Versailles Cedex France,"01 39 49 77 11
+01 39 49 77 09",pref-associations@yvelines.gouv.fr,ile-de-france,yvelines,48.80192,2.133219
+Greffe des associations - Oise (Beauvais),Préfecture de l'Oise Espace Saint-Quentin 1 place de la préfecture 60000 Beauvais France,03 44 06 12 60,pref-greffe-asso@oise.gouv.fr,hauts-de-france,oise,49.437397,2.073626
+Greffe des associations - Gers (Auch),Préfecture du Gers 3 place du Préfet-Claude-Érignac 32000 Auch France,05 62 61 43 72,pref-associations@gers.gouv.fr,occitanie,gers,43.64638,0.586709
+Greffe des associations - Gironde (Bordeaux),Préfecture de la Gironde Direction de la citoyenneté et de la légalité 2 esplanade Charles-de-Gaulle 33000 Bordeaux France,05 56 90 63 31,pref-dcl-greffe@gironde.gouv.fr,nouvelle-aquitaine,gironde,44.848312,-0.5978555
+Greffe des associations - Lot (Cahors),Préfecture du Lot Cité Bessières Rue Pierre-Mendes-France 46000 Cahors France,05 65 23 10 00,pref-associations@lot.gouv.fr,occitanie,lot,44.451714,1.438363
+Greffe des associations - Lot (Figeac),Sous-préfecture de Figeac Bureau des associations 22 rue Caviale 46100 Figeac France,"05 65 34 04 15
+05 65 34 89 86",sp-figeac@lot.gouv.fr,occitanie,lot,44.608665,2.032748
+Greffe des associations - Jura (Dole),23 place Sous-Préfecture 39100 Dole France,"03 84 79 44 00
+03 84 79 44 11",spdole@jura.gouv.fr,bourgogne-franche-comte,jura,47.09372,5.492973
+Greffe des associations - Creuse (Aubusson),Sous-préfecture d'Aubusson 5 rue Saint-Jean 23200 Aubusson France,05 55 51 59 00,pref-associations@creuse.gouv.fr,nouvelle-aquitaine,creuse,45.954094,2.1688652
+Greffe des associations - Doubs (Pontarlier),Sous-préfecture 69 rue de la République 25300 Pontarlier France,03 81 39 81 39,prefecture@doubs.gouv.fr,bourgogne-franche-comte,doubs,46.903805,6.354288
+Greffe des associations - Indre (Issoudun),Sous-préfecture d'Issoudun Bureau des associations 7 place Saint-Jean 36100 Issoudun France,02 54 03 50 00,sp-issoudun@indre.gouv.fr,centre-val-de-loire,indre,46.947292,1.995727
+Greffe des associations - Gironde (Langon),Sous-préfecture de Langon Service des associations 19 cours des Fossés 33210 Langon France,05 56 90 60 60,sp-langon@gironde.gouv.fr,nouvelle-aquitaine,gironde,44.555374,-0.2487682
+Greffe des associations - Cher (Bourges),Place Marcel-Plaisant 18000 Bourges,02 48 67 18 18,pref-associations@cher.gouv.fr,centre-val-de-loire,cher,47.08099,2.398108
+Greffe des associations - Gironde (Blaye),Sous-préfecture de Blaye Bureau des associations 4 rue André-Lafon 33390 Blaye France,05 56 90 60 60,sp-blaye@gironde.gouv.fr,nouvelle-aquitaine,gironde,45.126694,-0.660527
+Greffe des associations - Nièvre (Nevers),Service des associations Préfecture de la Nièvre 40 rue de la Préfecture 58026 Nevers Cedex France,03 86 60 70 80,courrier@nievre.gouv.fr,bourgogne-franche-comte,nievre,46.993374,3.162801
+Greffe des associations - Gard (Alès),Sous-préfecture d'Alès 3 boulevard Louis-Blanc 30100 Alès France,04 66 56 39 17,pref-associations@gard.gouv.fr,occitanie,gard,44.126717,4.080306
+Greffe des associations - Vosges (Épinal),Préfecture des Vosges Bureau des associations Place Foch 88000 Épinal France,03 29 69 88 88,pref-associations@vosges.gouv.fr,grand-est,vosges,48.172993,6.4484434
+Greffe des associations - Nord (Douai),Service des associations Sous-préfecture de Douai 642 boulevard Albert-1er 59500 Douai France,"03 27 93 59 87
 03 27 93 59 61
-03 27 93 59 63
-",sp-douai-associations@nord.gouv.fr,hauts-de-france,nord,50.377254,3.0748212,https://lannuaire.service-public.gouv.fr/hauts-de-france/nord/48a5cdd8-c955-4217-9051-9841ef777408
-Greffe des associations - Gers (Mirande),Sous-préfecture de Mirande Service des associations 1 avenue Laplagne 32300 Mirande France," 
-05 62 66 50 05
-",pref-associations@gers.gouv.fr,occitanie,gers,43.518276,0.4040554,https://lannuaire.service-public.gouv.fr/occitanie/gers/49224e8e-6d13-45cf-af3d-27ac96dc0486
-Greffe des associations - Rhé´ne (Lyon),Préfecture du Rhé´ne Greffe des associations 18 rue de Bonnel 69003 Lyon France," 
-04 72 61 61 44
-",pref-associations@rhone.gouv.fr,auvergne-rhone-alpes,rhone,45.76202,4.849794,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/rhone/4f9ef0a9-7645-467b-9aad-b0b968f08adb
-Greffe des associations - Loire (Roanne),Sous-préfecture de Roanne Bureau des Associations 2 rue Joseph-Déchelette 42328 Roanne Cedex France," 
-04 77 23 64 64
-",sp-roanne@loire.gouv.fr,auvergne-rhone-alpes,loire,46.035194,4.0700436,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/loire/501f4bf2-4946-458c-9539-130177c841fb
-Greffe des associations - Charente (Angouléªme),Préfecture de la Charente Bureau des élections et de la réglementation générale 7-9 rue de la Préfecture 16000 Angouléªme France," 
-05 45 97 61 66
-",pref16-associations@charente.gouv.fr,nouvelle-aquitaine,charente,45.645885,0.156364,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/charente/52110cad-637f-4ded-95de-63c0c88b32ea
-Greffe des associations - Allier (Montlué§on),Pé´le Départemental des Associations 8 place de la Comédie 03100 Montlué§on," 
-04 70 02 25 04
-",pref-associations@allier.gouv.fr,auvergne-rhone-alpes,allier,46.340126,2.605695,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/allier/609043f1-162c-42f9-999b-a2953835de13
-Greffe des associations - Yvelines (Rambouillet),Bureau des relations avec les collectivités locales et de la réglementation 82 rue du Général-de-Gaulle 78120 Rambouillet," 
-01 34 83 66 78
-01 34 83 66 43
-",sp-ramb-reglementation@yvelines.gouv.fr,ile-de-france,yvelines,48.643703,1.8241131,https://lannuaire.service-public.gouv.fr/ile-de-france/yvelines/60d73a99-f49c-493f-9993-5bf2e118b680
-Greffe des associations - Dordogne (Périgueux),Préfecture de Dordogne Greffe des associations 2 rue Paul-Louis-Courier 24000 Périgueux," 
-05 53 02 24 24
-",pref-associations-perigueux@dordogne.gouv.fr,nouvelle-aquitaine,dordogne,45.18725,0.725262,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/dordogne/6612a43f-cff1-4d4c-a86d-807285e141cf
-Greffe des associations - Pas-de-Calais (Arras),Bureau des élections et associations Préfecture du Pas-de-Calais Rue Ferdinand-Buisson 62020 Arras Cedex 9 France," 
-03 21 21 20 00
-",pref-associations@pas-de-calais.gouv.fr,hauts-de-france,pas-de-calais,50.29183,2.7643623,https://lannuaire.service-public.gouv.fr/hauts-de-france/pas-de-calais/6619322d-6832-4fc9-921f-4811b3145ecc
-Greffe des associations - Corré¨ze (Ussel),Sous-préfecture d'Ussel 1 boulevard de la Prade 19200 Ussel France," 
-05 55 72 12 64
-",pref-associations@correze.gouv.fr,nouvelle-aquitaine,correze,45.54896,2.313628,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/correze/6804efb3-6855-42d0-8e3d-35181fa04023
-Greffe des associations - Savoie (Albertville),Service des associations Sous-préfecture d'Albertville 86 rue Jean-Baptiste-Mathias 73200 Albertville France," 
-04 79 32 06 55
-",sp-albertville@savoie.gouv.fr,auvergne-rhone-alpes,savoie,45.67373,6.38779,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/savoie/683585ed-8a03-4f33-8fca-4adcdd23e554
-Greffe des associations - Yonne (Auxerre),Greffe des associations - Bureau des réglementations et des élections Direction de la citoyenneté et de la légalité Préfecture de l'Yonne Place de la Préfecture 89000 Auxerre France,,pref-associations@yonne.gouv.fr,bourgogne-franche-comte,yonne,,,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/yonne/6c05c635-ae3c-42c8-b1e6-3293959484af
-Greffe des associations - Indre (Ché¢teauroux),DSDEN - SDJES Cité administrative - Bé¢timent C 1er étage Boulevard George-Sand 36000 Ché¢teauroux France," 
-02 36 27 61 09
-",ce.sdjes36@ac-orleans-tours.fr,centre-val-de-loire,indre,46.80699,1.6865819,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/indre/7916a0e7-ced9-411e-8a16-aedb964e0bcc
-Greffe des associations - Isé¨re (Grenoble),Préfecture de l'Isé¨re 12 place de Verdun 38000 Grenoble France," 
-04 76 60 33 41
-",pref-associations@isere.gouv.fr,auvergne-rhone-alpes,isere,45.188583,5.73316,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/isere/79389d8d-4ae0-4a61-8bda-5a87be4518f6
-Greffe des associations - Gers (Condom),Sous-préfecture de Condom 3 place Lannelongue 32100 Condom France," 
-05 62 28 12 33
-",pref-associations@gers.gouv.fr,occitanie,gers,43.958496,0.372145,https://lannuaire.service-public.gouv.fr/occitanie/gers/7ac8c242-d2fd-484c-a1d2-c24d49c233b0
-Greffe des associations - Finisté¨re (Quimper),Bureau des élections et de la réglementation 42 boulevard Dupleix 29320 Quimper Cedex," 
-02 90 77 20 00
-",pref-associations@finistere.gouv.fr,bretagne,finistere,47.99455,-4.10267,https://lannuaire.service-public.gouv.fr/bretagne/finistere/7fc09f0f-a91a-46e7-bbd0-2e5b3dba14cf
-Greffe des associations - Gironde (Bordeaux),DSDEN 33 - SDJES Greffe des associations 7 boulevard Jacques-Chaban-Delmas 33520 Bruges France," 
-05 40 54 73 44
-",dsden33-associations@ac-bordeaux.fr,nouvelle-aquitaine,gironde,44.87773,-0.580822,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/gironde/82fe2195-1b0d-4a28-9eb9-4a62144dbbd1
-Greffe des associations - Calvados (Caen),Rue Daniel-Huet 14038 Caen Cedex 9 France," 
-02 31 30 64 00
-",pref-associations@calvados.gouv.fr,normandie,calvados,49.178787,-0.363248,https://lannuaire.service-public.gouv.fr/normandie/calvados/88126bec-e638-4b3e-8d22-648f83e5c4f6
-Greffe des associations - Aude (Carcassonne),Préfecture de l'Aude 52 rue Jean-Bringer 11000 Carcassonne," 
-04 68 10 27 01
-",courrier@aude.pref.gouv.fr,occitanie,aude,43.214203,2.3532567,https://lannuaire.service-public.gouv.fr/occitanie/aude/935d18a5-2677-40b8-a40e-3c724ad65a71
-Greffe des associations - Nord (Lille),Sous-préfecture de Douai 642 boulevard Albert-1er 59500 Douai France," 
-03 27 93 59 87
+03 27 93 59 63",sp-douai-associations@nord.gouv.fr,hauts-de-france,nord,50.377254,3.0748212
+Greffe des associations - Gers (Mirande),Sous-préfecture de Mirande Service des associations 1 avenue Laplagne 32300 Mirande France,05 62 66 50 05,pref-associations@gers.gouv.fr,occitanie,gers,43.518276,0.4040554
+Greffe des associations - Rhône (Lyon),Préfecture du Rhône Greffe des associations 18 rue de Bonnel 69003 Lyon France,04 72 61 61 44,pref-associations@rhone.gouv.fr,auvergne-rhone-alpes,rhone,45.76202,4.849794
+Greffe des associations - Loire (Roanne),Sous-préfecture de Roanne Bureau des Associations 2 rue Joseph-Déchelette 42328 Roanne Cedex France,04 77 23 64 64,pref-associations@loire.gouv.fr,auvergne-rhone-alpes,loire,46.035194,4.0700436
+Greffe des associations - Charente (Angoulême),Préfecture de la Charente Bureau des élections et de la réglementation générale 7-9 rue de la Préfecture 16000 Angoulême France,05 45 97 61 66,pref16-associations@charente.gouv.fr,nouvelle-aquitaine,charente,45.645885,0.156364
+Greffe des associations - Allier (Montluçon),Pôle Départemental des Associations 8 place de la Comédie 03100 Montluçon,04 70 02 25 04,pref-associations@allier.gouv.fr,auvergne-rhone-alpes,allier,46.340126,2.605695
+Greffe des associations - Yvelines (Rambouillet),Bureau des relations avec les collectivités locales et de la réglementation 82 rue du Général-de-Gaulle 78120 Rambouillet,"01 34 83 66 78
+01 34 83 66 43",sp-ramb-reglementation@yvelines.gouv.fr,ile-de-france,yvelines,48.643703,1.8241131
+Greffe des associations - Dordogne (Périgueux),Préfecture de Dordogne Greffe des associations 2 rue Paul-Louis-Courier 24000 Périgueux,05 53 02 24 24,pref-associations-perigueux@dordogne.gouv.fr,nouvelle-aquitaine,dordogne,45.18725,0.725262
+Greffe des associations - Pas-de-Calais (Arras),Bureau des élections et associations Préfecture du Pas-de-Calais Rue Ferdinand-Buisson 62020 Arras Cedex 9 France,03 21 21 20 00,pref-associations@pas-de-calais.gouv.fr,hauts-de-france,pas-de-calais,50.29183,2.7643623
+Greffe des associations - Corrèze (Ussel),Sous-préfecture d'Ussel 1 boulevard de la Prade 19200 Ussel France,05 55 72 12 64,pref-associations@correze.gouv.fr,nouvelle-aquitaine,correze,45.54896,2.313628
+Greffe des associations - Savoie (Albertville),Service des associations Sous-préfecture d'Albertville 86 rue Jean-Baptiste-Mathias 73200 Albertville France,04 79 32 06 55,sp-albertville@savoie.gouv.fr,auvergne-rhone-alpes,savoie,45.67373,6.38779
+Greffe des associations - Yonne (Auxerre),Greffe des associations - Bureau des réglementations et des élections Direction de la citoyenneté et de la légalité Préfecture de l'Yonne Place de la Préfecture 89000 Auxerre France,,pref-associations@yonne.gouv.fr,bourgogne-franche-comte,yonne,,
+Greffe des associations - Indre (Châteauroux),DSDEN - SDJES Cité administrative - Bâtiment C 1er étage Boulevard George-Sand 36000 Châteauroux France,02 36 27 61 09,ce.sdjes36@ac-orleans-tours.fr,centre-val-de-loire,indre,46.80699,1.6865819
+Greffe des associations - Isère (Grenoble),Préfecture de l'Isère 12 place de Verdun 38000 Grenoble France,04 76 60 33 41,pref-associations@isere.gouv.fr,auvergne-rhone-alpes,isere,45.188583,5.73316
+Greffe des associations - Gers (Condom),Sous-préfecture de Condom 3 place Lannelongue 32100 Condom France,05 62 28 12 33,pref-associations@gers.gouv.fr,occitanie,gers,43.958496,0.372145
+Greffe des associations - Finistère (Quimper),Bureau des élections et de la réglementation 42 boulevard Dupleix 29320 Quimper Cedex,02 90 77 20 00,pref-associations@finistere.gouv.fr,bretagne,finistere,47.99455,-4.10267
+Greffe des associations - Gironde (Bordeaux),DSDEN 33 - SDJES Greffe des associations 7 boulevard Jacques-Chaban-Delmas 33520 Bruges France,05 40 54 73 44,dsden33-associations@ac-bordeaux.fr,nouvelle-aquitaine,gironde,44.87773,-0.580822
+Greffe des associations - Calvados (Caen),Rue Daniel-Huet 14038 Caen Cedex 9 France,02 31 30 64 00,pref-associations@calvados.gouv.fr,normandie,calvados,49.178787,-0.363248
+Greffe des associations - Aude (Carcassonne),Préfecture de l'Aude 52 rue Jean-Bringer 11000 Carcassonne,04 68 10 27 01,courrier@aude.pref.gouv.fr,occitanie,aude,43.214203,2.3532567
+Greffe des associations - Nord (Lille),Sous-préfecture de Douai 642 boulevard Albert-1er 59500 Douai France,"03 27 93 59 87
 03 27 93 59 61
-03 27 93 59 63
-",pref-associations@nord.gouv.fr,hauts-de-france,nord,50.377224,3.074798,https://lannuaire.service-public.gouv.fr/hauts-de-france/nord/93e057ef-dae8-4f59-aca2-60145fe73a81
-Greffe des associations - Morbihan (Pontivy),Service des associations sous-préfecture 8 rue Frané§ois-Mitterrand 56300 Pontivy France," 
-02 97 27 67 68
-",pref-associations@morbihan.gouv.fr,bretagne,morbihan,48.065044,-2.967869,https://lannuaire.service-public.gouv.fr/bretagne/morbihan/9982cb99-2226-41c4-a37b-c69dfb90c3f1
-Greffe des associations - Loire (Montbrison),Sous-préfecture de Montbrison Bureau des associations Square Honoré-d'Urfé 42600 Montbrison France," 
-04 77 96 37 37
-04 77 96 37 28
-",pref-associations-montbrison@loire.gouv.fr,auvergne-rhone-alpes,loire,45.60976,4.063327,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/loire/9ab78c71-2cb8-496f-9d16-3240ff1537a7
-Greffe des associations - Gironde (Libourne),Sous-préfecture de Libourne Service des associations 8 avenue de Verdun 33500 Libourne France," 
-05 56 90 60 60
-",sp-libourne@gironde.gouv.fr,nouvelle-aquitaine,gironde,44.91059,-0.23954,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/gironde/9b7f6cb8-d056-4794-b4d2-a0d7bae2cea1
-Greffe des associations - Indre (La Ché¢tre),Sous-préfecture de La Ché¢tre 1 avenue Aristide-Briand 36400 La Ché¢tre France," 
-02 54 29 51 85
-",sp-la-chatre@indre.gouv.fr,centre-val-de-loire,indre,46.582157,1.984546,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/indre/b09cd0c5-f12d-4bcd-a23f-16d5472bd13a
-Greffe des associations - Aisne (Vervins),Sous-préfecture de Vervins Bureau des associations Rue Raoul-de-Coucy 02140 Vervins France," 
-03 23 21 83 96
-",pref-associations@aisne.gouv.fr,hauts-de-france,aisne,49.834404,3.905803,https://lannuaire.service-public.gouv.fr/hauts-de-france/aisne/b0de572a-9dd7-4453-a803-6d5bdd5232c6
-Greffe des associations - Aube (Troyes),"DSDEN de l'Aube Service départemental é  la jeunesse, é  lâ€™engagement, aux sports et é  la vie associative 30 rue Mitantier 10004 Troyes Cedex France"," 
-03 51 59 10 91
-",ce.sdjes10.vie-associative@ac-reims.fr,grand-est,aube,48.30142,4.080543,https://lannuaire.service-public.gouv.fr/grand-est/aube/b3a89bb9-dff5-48cb-90cb-7c6c0138be90
-Greffe des associations - Indre (Le Blanc),Sous-préfecture du Blanc Place du Général de Gaulle 36300 Le Blanc France," 
-02 54 29 51 65
-02 54 37 10 91
-",sp-le-blanc@indre.gouv.fr,centre-val-de-loire,indre,46.63233,1.06144,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/indre/b92318bb-8ce8-45ad-b99f-fc1ae8ab1592
-Greffe des associations - Essonne (é‰tampes),Service des associations 4 rue Van-Loo 91152 é‰tampes Cedex France," 
-01 69 91 91 91
-",pref-associations-sp-etampes@essonne.gouv.fr,ile-de-france,essonne,48.437004,2.165899,https://lannuaire.service-public.gouv.fr/ile-de-france/essonne/b9d5f17c-1214-402d-bb9a-3619e0de4ce4
-Greffe des associations - Arié¨ge (Foix),9 rue du Lieutenant-Paul-Delpech 09000 Foix France," 
-05 61 02 43 75
-",ddcspp@ariege.gouv.fr,occitanie,ariege,42.960934,1.60588,https://lannuaire.service-public.gouv.fr/occitanie/ariege/bd1928a9-3818-4ae1-8cc5-de8ee82aa419
-Greffe des associations - Tarn (Castres),Greffe des associations Sous-préfecture de Castres 16 boulevard Georges-Clemenceau 81100 Castres France," 
-05 63 45 62 06
-",pref-associations@tarn.gouv.fr,occitanie,tarn,43.607548,2.2376945,https://lannuaire.service-public.gouv.fr/occitanie/tarn/c0abc98c-028b-4264-a23e-a2edf69f4f28
-Greffe des associations - Dordogne (Bergerac),Sous-préfecture de Bergerac 16 place Gambetta 24100 Bergerac France," 
-05 53 02 24 24
-05 47 24 16 16
-",sp-bergerac@dordogne.gouv.fr,nouvelle-aquitaine,dordogne,44.85418,0.482292,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/dordogne/c3027b24-0a46-4a6d-98a8-1ede6ec82d9b
-Greffe des associations - Somme (Amiens),Bureau du Greffe des associations Préfecture de la Somme 51 rue de la République 80000 Amiens France," 
-03 22 97 80 80
-",pref-associations@somme.gouv.fr,hauts-de-france,somme,49.890438,2.296118,https://lannuaire.service-public.gouv.fr/hauts-de-france/somme/c728847a-964b-47da-ba3c-eb59b3517912
-Greffe des associations - Nord (Valenciennes),Sous-préfecture de Valenciennes 6 avenue des Dentellié¨res 59300 Valenciennes France," 
-03 27 14 59 59
-",sp-valenciennes@nord.gouv.fr,hauts-de-france,nord,50.35655,3.520573,https://lannuaire.service-public.gouv.fr/hauts-de-france/nord/c8f3759c-2834-44e4-9d1c-509e6c6857e4
-Greffe des associations - Dordogne (Nontron),Sous-préfecture de Nontron 12 bis boulevard Gambetta 24300 Nontron France," 
-05 53 02 24 24
-05 47 24 16 99
-",pref-associations-perigueux@dordogne.gouv.fr,nouvelle-aquitaine,dordogne,45.532196,0.66253,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/dordogne/c9048398-0c9b-4b9c-aa4c-37eb080952a8
-Greffe des associations - Orne (Alené§on),Préfecture de l'Orne 39 rue Saint-Blaise 61000 Alené§on France," 
-02 33 80 60 33
-02 33 80 60 36
-",pref-associations@orne.gouv.fr,normandie,orne,48.43385,0.090534,https://lannuaire.service-public.gouv.fr/normandie/orne/caf32c23-c538-4415-9592-408ba214951d
-Greffe des associations - Cantal (Mauriac),Sous-préfecture de Mauriac Rue Guillaume-Duprat 15200 Mauriac France," 
-04 71 68 06 06
-",pref-sp-mauriac-associations@cantal.gouv.fr,auvergne-rhone-alpes,cantal,45.216812,2.332152,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/cantal/ccbbe095-108c-4012-aed1-d45c512aa3f9
-Greffe des associations - Sarthe (Le Mans),Direction de la Citoyenneté et de la Légalité - Bureau de la Réglementation Générale et des é‰lections Préfecture de la Sarthe Place Aristide Briand 72041 Le Mans Cedex 9 France," 
-02 85 32 72 72
-",associations72@sarthe.gouv.fr,pays-de-la-loire,sarthe,47.996815,0.206706,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/sarthe/cd03b04a-e640-4d69-a414-bf9e023ae217
-Greffe des associations - Corré¨ze (Tulle),1 rue Souham 19000 Tulle France,,pref-associations@corr%C3%A8ze.gouv.fr,nouvelle-aquitaine,correze,45.271362,1.7690881,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/correze/d175e5a7-12e8-43a5-9187-106e7e20d220
-Greffe des associations - Marne (Reims),Sous-préfecture de Reims Place Royale 51100 Reims France," 
-03 26 86 71 00
-",sp-reims-associations51@marne.gouv.fr,grand-est,marne,49.255695,4.033753,https://lannuaire.service-public.gouv.fr/grand-est/marne/dace3b7e-ce46-40fb-a86c-c3bf05649a90
-Greffe des associations - Eure (é‰vreux),Direction départementale de la cohésion sociale de l'Eure Boulevard Georges-Chauvin 27000 é‰vreux France," 
-02 32 24 88 28
-",,normandie,eure,49.025482,1.1430305,https://lannuaire.service-public.gouv.fr/normandie/eure/dbb70e0e-ea83-4e5b-a237-2e789da8c4e0
-Greffe des associations - Moselle (Metz),Tribunal d'instance de Metz 3 rue Haute-Pierre 57000 Metz France," 
-03 87 56 75 00
-",accueil-metz@justice.fr,grand-est,moselle,49.11705,6.170733,https://lannuaire.service-public.gouv.fr/grand-est/moselle/dc253288-8502-4b74-b2bd-d0632ac97f89
-Greffe des associations - Moselle (Thionville),Tribunal d'instance de Thionville 12 allée Raymond-Poincaré 57100 Thionville France," 
-03 55 84 30 20
-",,grand-est,moselle,49.356792,6.16298,https://lannuaire.service-public.gouv.fr/grand-est/moselle/dda5c40c-affe-4a88-a17d-0d22bf392ec4
-Greffe des associations - Morbihan (Lorient),Quai de Rohan 56100 Lorient France," 
-02 97 27 67 68
-",pref-associations@morbihan.gouv.fr,bretagne,morbihan,47.74539,-3.36255,https://lannuaire.service-public.gouv.fr/bretagne/morbihan/df9eb968-d0bc-42cb-906b-f400729aea93
-Greffe des associations - Ardé¨che (Largentié¨re),Service des associations 23 rue Camille-Vielfaure 07110 Largentié¨re France," 
-04 75 89 90 90
-04 75 89 90 83
-",sp-largentiere@ardeche.gouv.fr,auvergne-rhone-alpes,ardeche,44.541637,4.2910933,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/ardeche/e41459a4-0b0c-4361-9899-debcd9551861
-Greffe des associations - Ain (Belley),Service des associations 24 rue des Barons 01300 Belley France," 
-04 79 81 01 09
-",sp-belley-associations@ain.gouv.fr,auvergne-rhone-alpes,ain,45.758163,5.687284,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/ain/e8c91d17-8f60-4ce6-93f3-f4904af66191
-Greffe des associations - Dré´me (Valence),Direction départementale de la cohésion sociale de la Dré´me Service des associations 33 avenue de Romans 26000 Valence France," 
-04 26 52 22 61
-",ddets-associations@drome.gouv.fr,auvergne-rhone-alpes,drome,44.93303,4.899979,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/drome/ebb1eb87-458c-4944-8680-6e87eb8f64ff
-Greffe des associations - Loiret (Orléans - Montargis - Pithiviers),Délégation régionale académique é  la jeunesse é  l'engagement et aux sports Bé¢timent M 131 rue du Faubourg-Bannier 45000 Orléans France," 
-02 36 47 72 96
-",js-associations@ac-orleans-tours.fr,centre-val-de-loire,loiret,47.91532,1.8994372,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/loiret/094c3117-0bae-48ab-b649-996c4c0e5ecf
-Greffe des associations - Eure-et-Loir (Chartres),D.D.E.T.S.P.P dâ€™Eure-et-Loir Greffe des associations 15 place de la République 28019 Chartres Cedex France," 
-02 37 20 51 00
-",ddetspp-associations@eure-et-loir.gouv.fr,centre-val-de-loire,eure-et-loir,48.446247,1.4809585,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/eure-et-loir/0becb043-588e-4dd1-b195-ebd4c359a989
-Greffe des associations - Meurthe-et-Moselle (Nancy),Préfecture de Meurthe-et-Moselle 1 rue Préfet-Claude-é‰rignac 54000 Nancy France," 
-03 83 34 26 26
-",pref-associations@meurthe-et-moselle.gouv.fr,grand-est,meurthe-et-moselle,48.69336,6.184366,https://lannuaire.service-public.gouv.fr/grand-est/meurthe-et-moselle/0d3c497c-d9df-437d-a6d7-fd4537f84398
-Greffe des associations - Territoire de Belfort (Belfort),Greffe des associations Préfecture de Belfort 1 rue Bartholdi 90020 Belfort Cedex France," 
-03 84 57 16 95
-",pref-associations@territoire-de-belfort.gouv.fr,bourgogne-franche-comte,territoire-de-belfort,47.638176,6.861919,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/territoire-de-belfort/0f223433-c858-4ffd-9d4a-dd4bab9574b2
-Greffe des associations - Val-d'Oise (Cergy-Pontoise),Bureau des associations Préfecture du Val-d'Oise 5 avenue Bernard-Hirsch 95010 Cergy-Pontoise France," 
-01 34 20 94 11
-",,ile-de-france,val-d-oise,49.03365,2.0784628,https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/0f510e92-ffdb-4da8-92b2-2900798f40a4
-Greffe des associations - Alpes-de-Haute-Provence (Castellane),Sous-préfecture de Castellane Bureau des associations 209 rue du 8-Mai 04120 Castellane France," 
-04 92 36 77 86
-04 92 36 72 00
-",pref-associations@alpes-de-haute-provence.gouv.fr,provence-alpes-cote-d-azur,alpes-de-haute-provence,43.847805,6.509835,https://lannuaire.service-public.gouv.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/10f5c4fe-2fa0-4b9b-8cf2-d368c9d19e4d
-Greffe des associations - Charente-Maritime (Saint-Jean-d'Angély),Sous-préfecture de Saint-Jean-d'Angély Service des associations 28 place de l'Hé´tel-de-Ville 17415 Saint-Jean-d'Angély France," 
-05 46 32 71 87
-",pref-associations@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,45.94475,-0.5182049,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/charente-maritime/11b3a6e4-0a61-4640-a91d-40235b618535
-Greffe des associations - Haute-Savoie (Annecy - Thonon-les-Bains - Saint-Julien-en-Genevois),Préfecture de Haute-Savoie 14 rue du 30e-Régiment-d'Infanterie 74000 Annecy France," 
-04 50 33 60 00
-04 50 33 60 07
-",pref-associations@haute-savoie.gouv.fr,auvergne-rhone-alpes,haute-savoie,45.899246,6.129384,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/haute-savoie/137a13ea-ccb7-48a7-a373-7c1cbcdb3ad5
-Greffe des associations - Landes (Mont-de-Marsan),Service départemental é  la jeunesse é  l'engagement et aux sports Cité Galliane 5 avenue Antoine-Dufau 40000 Mont-de-Marsan France," 
-05 40 54 73 71
-",greffe-assos.dsden40@ac-bordeaux.fr,nouvelle-aquitaine,landes,43.893684,-0.494593,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/landes/1985febf-9b62-46bb-941a-b9c8db86a95c
-Greffe des associations - Ardé¨che (Tournon-sur-Rhé´ne),Service des associations 16 quai Marc Seguin 07300 Tournon-sur-Rhé´ne Cedex France," 
-04 75 07 07 70
-",sp-tournon@ardeche.gouv.fr,auvergne-rhone-alpes,ardeche,45.067795,4.83401,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/ardeche/1a5d8d71-c0c3-4572-801d-8b5314596d66
-Greffes des associations - Pyrénées-Orientales (Prades),Service Association Sous Préfecture de Prades 177 avenue du Général-de-Gaulle 66500 Prades," 
-04 68 51 67 80
-",sp-prades-associations@pyrenees-orientales.gouv.fr,occitanie,pyrenees-orientales,42.61572,2.421459,https://lannuaire.service-public.gouv.fr/occitanie/pyrenees-orientales/1c644b96-cb57-4e62-961a-c6767d0ecec4
-Greffe des associations - Vienne (arrondissement de Poitiers et de Montmorillon),Greffe des associations Poitiers et Montmorillon Sous-préfecture de Montmorillon 1 boulevard de Strasbourg 86500 Montmorillon France," 
-05 49 47 25 23
-",pref-associations-poit@vienne.gouv.fr,nouvelle-aquitaine,vienne,46.58094,0.384778,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/vienne/2059c794-482a-47f5-a96f-08c90bac8518
-Greffe des associations - Charente-Maritime (La Rochelle),Cité administrative Duperré 5 place des Cordeliers 17000 La Rochelle France," 
-05 46 27 44 26
-",pref-associations@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,46.163017,-1.144679,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/charente-maritime/23df5974-134c-43ae-9c17-093f2a44ef3a
-Greffe des associations - Hauts-de-Seine (Antony),Greffe des associations Sous-préfecture d'Antony 99 avenue du Général-de-Gaulle 92161 Antony Cedex France," 
-01 56 45 38 11
-01 40 97 20 00
-",sp-antony@hauts-de-seine.gouv.fr,ile-de-france,hauts-de-seine,48.761677,2.3000436,https://lannuaire.service-public.gouv.fr/ile-de-france/hauts-de-seine/252cdcc0-05c1-4f74-a8f9-6fc6412fd154
-Greffe des associations - Pyrénées-Orientales (Perpignan),Service Associations Préfecture des Pyrénées-Orientales 24 quai Sadi-Carnot 66100 Perpignan France," 
-04 68 51 66 66
-04 68 51 66 37
-",pref-associations@pyrenees-orientales.gouv.fr,occitanie,pyrenees-orientales,42.70003,2.893436,https://lannuaire.service-public.gouv.fr/occitanie/pyrenees-orientales/27ab4a05-6240-40b3-bc79-99808198be5f
-Greffe des associations - Val-d'Oise (Sarcelles),Sous-préfecture de Sarcelles Bureau des collectivités territoriales et des affaires réglementaires 1 boulevard Frané§ois-Mitterrand 95200 Sarcelles France," 
-01 34 04 30 51
-",associations-sarcelles@val-doise.pref.gouv.fr,ile-de-france,val-d-oise,48.98977,2.3751588,https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/292cc2ff-1e36-443c-955a-9b14d843e099
-Greffe des associations - Charente-Maritime (Saintes),Bureau des associations 12 place du Synode 17100 Saintes France," 
-05 46 27 46 87
-",sp-saintes@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,45.744873,-0.6334421,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/charente-maritime/2b7e64f8-ea4e-4277-a00f-848362e5e709
-Greffe des associations - Vendée (La Roche-sur-Yon),Greffe des associations Préfecture de la Vendée 29 rue Delille 85922 La Roche-sur-Yon Cedex 9 France," 
-02 51 36 70 85
-",prefecture@vendee.gouv.fr,pays-de-la-loire,vendee,46.66758,-1.427903,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/vendee/310b5a83-6151-40de-8e5a-e17367b31b26
-Greffe des associations - La Réunion (Saint-Paul),Greffe des associations Sous-préfecture de Saint-Paul 5 rue é‰variste-de-Parny 97415 Saint-Paul Cedex France," 
-02 62 35 89 50
-",associations@reunion.pref.gouv.fr,la-reunion,la-reunion,-21.008406,55.270683,https://lannuaire.service-public.gouv.fr/la-reunion/la-reunion/34a9a20e-a330-49c8-823d-196ee237bd5f
-Greffe des associations - Guadeloupe (Pointe-é -Pitre),Bergevin 35 rue de la Ville-dâ€™Orly 97110 Pointe-é -Pitre France," 
-06 90 29 55 00
-",ass.@gmail.com,guadeloupe,guadeloupe,16.246058,-61.54165,https://lannuaire.service-public.gouv.fr/guadeloupe/guadeloupe/380496b9-7d33-4a0a-ad3a-597360c38025
-Greffe des associations - Nié¨vre (Ché¢teau-Chinon),Sous-préfecture de Ché¢teau-Chinon 1 rue du Marché 58120 Ché¢teau-Chinon France," 
-03 86 79 48 48
-",sp-chateau-chinon@nievre.gouv.fr,bourgogne-franche-comte,nievre,47.064285,3.934082,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/nievre/3a33eb0c-161d-455f-bff8-0cb778325c16
-Greffe des associations - Eure-et-Loir (Nogent-le-Rotrou),Sous-préfecture de Nogent-le-Rotrou Bureau des associations 45 rue Saint-Laurent 28401 Nogent-le-Rotrou France," 
-02 37 27 71 56
-",pref-associations@eure-et-loir.gouv.fr,centre-val-de-loire,eure-et-loir,48.31649,0.81665,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/eure-et-loir/3ba307c5-1964-429d-8689-44e1df344000
-Greffe des associations - Haute-Vienne (Rochechouart),Greffe des associations Sous-préfecture de Rochechouart 2 place des Halles 87600 Rochechouart France," 
-05 87 03 11 30
-05 55 43 83 10
-",sp-rochechouart@haute-vienne.gouv.fr,nouvelle-aquitaine,haute-vienne,48.88364,2.349199,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/haute-vienne/3c198089-cb9b-4a19-879e-5ae2bd66d844
-Greffe des associations - Haute-Garonne (Muret),Sous-préfecture de Muret Service des associations 10 allées Niel 31600 Muret," 
-05 34 45 34 45
-",pref-public-associations@haute-garonne.gouv.fr,occitanie,haute-garonne,43.459015,1.3261784,https://lannuaire.service-public.gouv.fr/occitanie/haute-garonne/3daed285-cf79-448a-9c7a-0f9c5b59ab1f
-Greffe des associations - Marne (Vitry-le-Frané§ois),Sous-préfecture de Vitry-le-Frané§ois 4 rue Maitre-Edmé 51300 Vitry-le-Frané§ois France," 
-03 26 74 00 54
-",sp-vitry-le-francois@marne.gouv.fr,grand-est,marne,48.723637,4.585693,https://lannuaire.service-public.gouv.fr/grand-est/marne/40cb6751-1937-4830-a129-5d543029e74b
-Greffe des associations - Ille-et-Vilaine (Rennes),Préfecture d'Ille-et-Vilaine 81 Boulevard d'Armorique 35026 Rennes Cedex 9 France," 
-02 21 86 25 35
-",pref-associations@ille-et-vilaine.gouv.fr,bretagne,ille-et-vilaine,48.130707,-1.67486,https://lannuaire.service-public.gouv.fr/bretagne/ille-et-vilaine/428e2ba0-d199-4741-a472-34497243003e
-Greffe des associations - Hauts-de-Seine (Nanterre),Greffe des associations 1901 Préfecture des Hauts-de-Seine 167-177 avenue Joliot-Curie 92013 Nanterre Cedex France," 
-01 40 97 45 78
-",pref-associations1901@hauts-de-seine.gouv.fr,ile-de-france,hauts-de-seine,48.896748,2.2167718,https://lannuaire.service-public.gouv.fr/ile-de-france/hauts-de-seine/46d2f9b9-a8cd-4fbf-af4d-a541fd4e4fa2
-Greffe des associations - Bas-Rhin (Sélestat),Service des associations Tribunal d'instance de Sélestat 17 allée de la 1é¨re-Armée 67600 Sélestat France," 
-03 88 57 40 50
-",associations.tprx-selestat@justice.fr,grand-est,bas-rhin,48.259384,7.454241,https://lannuaire.service-public.gouv.fr/grand-est/bas-rhin/48e7c0d1-30f0-44ff-bf29-7ea104cc47d2
-Greffe des associations - Saé´ne-et-Loire (Charolles),Greffe des associations Sous-préfecture de Charolles 28 rue de la Madeleine 71120 Charolles France," 
-03 85 88 02 53
-03 85 21 81 00
-",spref-charolles.pref71@saone-et-loire.gouv.fr,bourgogne-franche-comte,saone-et-loire,46.43213,4.277328,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/saone-et-loire/49872d67-c718-4352-b001-8539f1dc902d
-Greffe des associations - Yvelines (Saint-Germain-en-Laye),Greffe des associations Sous-préfecture de Saint-Germain-en-Laye 1 rue du Panorama 78100 Saint-Germain-en-Laye France," 
-01 30 61 34 00
-",pref-stgermain-assoc1901@yvelines.gouv.fr,ile-de-france,yvelines,48.892845,2.0810297,https://lannuaire.service-public.gouv.fr/ile-de-france/yvelines/4d31e2e6-9937-4a06-bd79-575a0e181f66
-Greffe des associations - Saé´ne-et-Loire (Autun),Greffe des associations Sous-préfecture d'Autun 21 rue de l'Arquebuse 71400 Autun France," 
-03 85 86 93 10
-03 85 21 81 00
-",sp-autun-pref71@saone-et-loire.gouv.fr,bourgogne-franche-comte,saone-et-loire,46.95071,4.303233,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/saone-et-loire/4d96e2a4-a633-4ab4-a746-25e169090917
-Greffe des associations - Saé´ne-et-Loire (Chalon-sur-Saé´ne),Greffe des associations Sous-préfecture de Chalon-sur-Saé´ne 28 rue Général-Leclerc 71100 Chalon-sur-Saé´ne France," 
-03 85 21 81 00
-03 85 42 55 55
-",pref-associations@saone-et-loire.gouv.fr,bourgogne-franche-comte,saone-et-loire,46.782566,4.853685,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/saone-et-loire/53b6ad24-74e1-4b63-b636-374171780c35
-Greffe des associations - Haute-Saé´ne (Vesoul),Service des Associations Préfecture de la Haute-Saé´ne 1 rue de la Préfecture 70000 Vesoul France," 
-03 84 77 70 74
-",pref-associations@haute-saone.gouv.fr,bourgogne-franche-comte,haute-saone,47.623165,6.153385,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/haute-saone/561e3c97-e5ab-4909-a039-b1e9767c7917
-Greffe des associations - Maine-et-Loire (Segré-en-Anjou Bleu),Sous-préfecture de Segré 2 rue Lamartine 49500 Segré-en-Anjou Bleu France," 
-02 41 94 70 60
-02 41 81 80 80
-",sp-segre@maine-et-loire.gouv.fr,pays-de-la-loire,maine-et-loire,47.682034,-0.869632,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/maine-et-loire/58543d58-6809-4c90-b2cd-c638cbc6c88e
-Greffe des associations - Lozé¨re (Florac-Trois-Rivié¨res),Sous-préfecture de Florac 14 esplanade Marceau-Farelle 48400 Florac-Trois-Rivié¨res France," 
-04 66 65 62 76
-04 66 65 62 80
-",sp-florac@lozere.gouv.fr,occitanie,lozere,44.325207,3.593608,https://lannuaire.service-public.gouv.fr/occitanie/lozere/5a9917a3-a7ac-40dc-9d5e-653f724b0e2f
-Greffe des associations - Vienne (arrondissement de Ché¢tellerault),Greffe des associations Sous-préfecture Ché¢tellerault 2 rue Choisnin 86100 Ché¢tellerault France," 
-05 49 47 24 64
-",sp-chatellerault@vienne.gouv.fr,nouvelle-aquitaine,vienne,46.816566,0.548181,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/vienne/5b5d7dc8-f545-41e1-81d4-570d764feec8
-Greffe des associations - Bas-Rhin (Strasbourg),Tribunal Judiciaire de Strasbourg 45 rue du Fossé-des-Treize 67000 Strasbourg France," 
-03 88 15 59 29
-",associations.tj-strasbourg@justice.fr,grand-est,bas-rhin,48.5902,7.745914,https://lannuaire.service-public.gouv.fr/grand-est/bas-rhin/5c393861-337a-41db-aa4e-6d9e0263ddb5
-Greffe des associations - Cé´tes-d'Armor (Saint-Brieuc),Préfecture des Cé´tes-d'Armor Greffe des associations 1 place du Général-de-Gaulle 22000 Saint-Brieuc France," 
-02 21 27 31 35
-",greffe-associations@cotes-darmor.gouv.fr,bretagne,cotes-d-armor,48.513874,-2.764382,https://lannuaire.service-public.gouv.fr/bretagne/cotes-d-armor/5d11f918-c286-40ad-88ee-c74df34bf571
-Greffe des associations - Bouches-du-Rhé´ne (Istres),Mission départementale vie associative Sous-préfecture d'Istres Avenue des Bolles 13000 Istres France," 
-04 42 86 57 69
-",sp-istres-associations@bouches-du-rhone.gouv.fr,provence-alpes-cote-d-azur,bouches-du-rhone,43.503796,4.994542,https://lannuaire.service-public.gouv.fr/provence-alpes-cote-d-azur/bouches-du-rhone/632c31a1-28bd-499c-aa93-9c4f0f0119be
-Greffe des associations - Loir-et-Cher (Vendé´me),Bureau des associations 8 place Saint-Martin 41106 Vendé´me Cedex," 
-02 54 73 57 05
-",,centre-val-de-loire,loir-et-cher,47.79183,1.066606,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/loir-et-cher/660a7626-ee3f-4aa5-81c4-3257a6f3f094
-Greffe des associations - Nié¨vre (Cosne-Cours-sur-Loire),Sous-préfecture 7 bis rue Eugé¨ne-Pelletan 58200 Cosne-Cours-sur-Loire France," 
-03 86 26 70 48
-",sous-prefecture-de-cosne-sur-loire@nievre.pref.gouv.fr,bourgogne-franche-comte,nievre,47.41219,2.922181,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/nievre/698d03e6-5153-467f-b1ac-64752831a2a1
-Greffe des associations - Dordogne (Sarlat-la-Canéda),Place Salvador-Allende 24200 Sarlat-la-Canéda France," 
-05 47 24 16 52
-",sp-sarlat@dordogne.gouv.fr,nouvelle-aquitaine,dordogne,44.8905,1.2192457,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/dordogne/6a686c4c-b776-43c5-ba7b-54ec42abf05f
-Greffe des associations - Corré¨ze (Brive-la-Gaillarde),Sous-préfecture de Brive 2 boulevard Jules-Ferry 19011 Brive-la-Gaillarde Cedex France," 
-05 55 17 79 53
-",sp-brive@correze.gouv.fr,nouvelle-aquitaine,correze,45.156986,1.534916,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/correze/6d2b20bd-97c3-488d-a879-a86ebc9af437
-Greffe des associations - Val-d'Oise (Argenteuil),Greffe des associations Sous-préfecture d'Argenteuil 2 rue Alfred-Labrié¨re 95100 Argenteuil France," 
-01 34 20 95 95
-",sp-associations-Argenteuil@val-doise.gouv.fr,ile-de-france,val-d-oise,48.943573,2.2555459,https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/7333c621-f7e4-4c6a-848a-b705eb51b4c7
-Greffe des associations - Aisne (Saint-Quentin),Service des associations 22 rue de la Sous-préfecture 02100 Saint-Quentin France," 
-03 23 06 61 06
-",pref-associations@saint-quentin.gouv.fr,hauts-de-france,aisne,49.846493,3.291965,https://lannuaire.service-public.gouv.fr/hauts-de-france/aisne/741bdd1e-1313-4d9c-b8d2-f724b58d4745
-Greffe des associations - Hautes-Pyrénées (Bagné¨res-de-Bigorre),Sous-préfecture de Bagné¨res-de-Bigorre 4 avenue Jacques-Soubielle 65201 Bagné¨res-de-Bigorre Cedex France," 
-05 62 91 30 30
-",sp-bagneres@hautes-pyrenees.gouv.fr,occitanie,hautes-pyrenees,43.06138,0.153143,https://lannuaire.service-public.gouv.fr/occitanie/hautes-pyrenees/7ff9eab8-54fa-4612-b56a-4c2706ca96fb
-Greffe des associations - Nord (Avesnes-sur-Helpe),Service des associations Sous-préfecture d'Avesnes-sur-Helpe 1 rue Gossuin 59440 Avesnes-sur-Helpe France," 
-03 27 61 59 59
-03 27 61 59 66
-",sp-associations-avesnes@nord.gouv.fr,hauts-de-france,nord,50.120777,3.932952,https://lannuaire.service-public.gouv.fr/hauts-de-france/nord/8269f723-dfda-4927-925c-a61eaec66c0c
-Greffe des associations - Loire-Atlantique (Nantes),Préfecture de Loire-Atlantique Service des associations 6 quai Ceineray 44000 Nantes France," 
-02 40 41 22 16
-",pref-associations@loire-atlantique.gouv.fr,pays-de-la-loire,loire-atlantique,47.220078,-1.5541056,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/loire-atlantique/82d32c4d-cfa0-4636-80d4-b930b166c3ea
-Greffe des associations - Maine-et-Loire (Angers),1er étage Place Michel-Debré 49934 Angers Cedex 9 France," 
-02 41 81 81 11
-",pref-associations@maine-et-loire.gouv.fr,pays-de-la-loire,maine-et-loire,47.46859,-0.5529546,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/maine-et-loire/883bdf9d-c1f7-40aa-80b7-031189602034
-Greffe des associations - Mayenne (Ché¢teau-Gontier),Sous-préfecture de Ché¢teau-Gontier 4 rue de la Petite-Lande 53200 Ché¢teau-Gontier-sur-Mayenne France," 
-02 53 54 54 52
-02 53 54 54 59
-",pref-associations@mayenne.gouv.fr,pays-de-la-loire,mayenne,47.830673,-0.7081526,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/mayenne/88c2dcad-aa4a-4e3f-87bd-6fbc2b32c3d1
-Greffe des associations - Bas-Rhin (Schiltigheim),Tribunal de proximité de Schiltigheim 10 rue du Tribunal 67300 Schiltigheim France," 
-03 88 19 27 82
-",associations.tprx-schiltigheim@justice.fr,grand-est,bas-rhin,48.60341,7.7547636,https://lannuaire.service-public.gouv.fr/grand-est/bas-rhin/8a9f90d7-9de9-41df-9c49-736e64fb0220
-Greffe des associations - Ille-et-Vilaine (Saint-Malo),Sous-préfecture de Saint-Malo Service des associations 3 rue Roger-Vercel 35400 Saint-Malo France," 
-02 90 04 43 43
-",sp-saint-malo-associations@ille-et-vilaine.gouv.fr,bretagne,ille-et-vilaine,48.652416,-2.010724,https://lannuaire.service-public.gouv.fr/bretagne/ille-et-vilaine/8cfcf8e3-91e8-4dc6-ae6a-4cc24027707d
-Greffe des associations - Deux-Sé¨vres (Bressuire),Greffe des associations Sous-préfecture de Bressuire 4 rue des Hardilliers 79300 Bressuire France," 
-05 49 65 61 71
-",sp-bressuire@deux-sevres.gouv.fr,nouvelle-aquitaine,deux-sevres,46.843372,-0.4873418,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/deux-sevres/8eb4e222-ce6b-433b-816a-ccb830f2bddb
-Greffe des associations - Meuse (Bar-le-Duc),Préfecture de Bar-le-Duc 40 rue du Bourg 55000 Bar-le-Duc France," 
-03 29 77 58 69
-03 29 77 55 55
-",pref-associations@meuse.gouv.fr,grand-est,meuse,48.77399,5.157907,https://lannuaire.service-public.gouv.fr/grand-est/meuse/910597e9-8374-4019-9f17-e8142c965619
-Greffe des associations - Seine-Saint-Denis (Bobigny),Préfecture Bureau des associations et des élections 1 esplanade Jean-Moulin 93000 Bobigny France," 
-01 41 60 60 22
-",pref-associations@seine-saint-denis.gouv.fr,ile-de-france,seine-saint-denis,48.9053,2.450472,https://lannuaire.service-public.gouv.fr/ile-de-france/seine-saint-denis/9147e8a7-b89b-4156-93fe-4f672c7b6d03
-Greffe des associations - Seine-Maritime (Le Havre),Sous-préfecture du Havre 95 boulevard de Strasbourg 76600 Le Havre France," 
-02 35 13 34 32
-",pref-associations-havre@seine-maritime.gouv.fr,normandie,seine-maritime,49.493244,0.112316,https://lannuaire.service-public.gouv.fr/normandie/seine-maritime/91a0888e-e1ff-459b-a3e1-d3e7d2f0e9b8
-Greffe départemental des associations - Aveyron (Millau),Greffe départemental des associations de l'Aveyron 39 avenue de la République 12100 Millau France," 
-05 65 61 17 00
-",pref-associations@aveyron.gouv.fr,occitanie,aveyron,44.10288,3.0766492,https://lannuaire.service-public.gouv.fr/occitanie/aveyron/96bd8f31-8bec-40d8-80a8-45f1726793b9
-Greffe des associations - Haut-Rhin (Colmar),Greffe des associations Tribunal judiciaire de Colmar 10 rue des Augustins 68020 Colmar France," 
-03 89 24 77 31
-03 89 24 45 24
-",associations.tj-colmar@justice.fr,grand-est,haut-rhin,48.076252,7.356973,https://lannuaire.service-public.gouv.fr/grand-est/haut-rhin/9aec680c-12b5-4982-8bea-f3662e9ad103
-Greffe des associations - Jura (Saint-Claude),Sous-préfecture 1 rue de la Sous-Préfecture 39200 Saint-Claude," 
-03 84 41 32 00
-03 84 41 32 25
-",ddetspp@jura.gouv.fr,bourgogne-franche-comte,jura,46.386185,5.86577,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/jura/9b413dad-5379-4975-8aac-7e8538d4bee4
-Greffe des associations - Deux-Sé¨vres (Niort),Greffe des associations Préfecture des Deux-Sé¨vres 4 rue Du-Guesclin 79099 Niort Cedex 9 France," 
-05 49 08 69 15
-",pref-associations@deux-sevres.gouv.fr,nouvelle-aquitaine,deux-sevres,46.32442,-0.46555,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/deux-sevres/9b7592bd-0512-451a-b0f2-a27f3c2852bd
-Greffe des associations - Val-de-Marne (Créteil),Bureau de la Réglementation Générale et des é‰lections Préfecture du Val-de-Marne 21-29 avenue du Général de Gaulle 94038 Créteil Cedex France," 
-01 49 56 62 09
-",pref-associations@val-de-marne.gouv.fr,ile-de-france,val-de-marne,48.78228,2.45079,https://lannuaire.service-public.gouv.fr/ile-de-france/val-de-marne/9bd15fa4-00d4-4cf1-a1bf-40fbdb00fc38
-Greffe des associations - Guadeloupe (Basse-Terre),Préfecture de la Guadeloupe Palais d'Orléans Rue Lardenoy 97100 Basse-Terre France," 
-05 90 99 39 00
-",associations-loi-1901@guadeloupe.gouv.fr,guadeloupe,guadeloupe,15.99235,-61.72233,https://lannuaire.service-public.gouv.fr/guadeloupe/guadeloupe/9df0e7c8-440c-4a3b-9ab1-ae3882bf0688
-Greffe des associations - Bas-Rhin (Molsheim),Tribunal de proximité de Molsheim 3 rue du Maréchal-Kellermann 67120 Molsheim France," 
-03 88 49 72 35
-",associations.tprx-molsheim@justice.fr,grand-est,bas-rhin,48.54107,7.494302,https://lannuaire.service-public.gouv.fr/grand-est/bas-rhin/9ecd2bda-e371-499c-954a-1b4218dd41cb
-Greffe des associations - Seine-Maritime (Rouen),Bureau des associations Préfecture de Seine-Maritime 7 place de la Madeleine 76000 Rouen France," 
-02 32 76 52 43
-02 32 76 50 00
-",pref-associations@seine-maritime.gouv.fr,normandie,seine-maritime,49.44557,1.079838,https://lannuaire.service-public.gouv.fr/normandie/seine-maritime/a3ae9e1f-9718-4e57-a989-454a13f090c7
-Greffe des associations - Pé´le départemental - Seine-et-Marne (Melun),Greffe des associations - pé´le départemental Préfecture de Seine-et-Marne 12 rue des Saints Pé¨res 77010 Melun Cedex France," 
-01 64 71 77 77
-",pref-associations@seine-et-marne.gouv.fr,ile-de-france,seine-et-marne,48.54183,2.654298,https://lannuaire.service-public.gouv.fr/ile-de-france/seine-et-marne/a44611a8-a17c-43fb-b32d-b3923420dd64
-Greffe des associations - Manche (Saint-Lé´),Greffe des associations DDETS de la Manche 1 bis rue de la Libération 50000 Saint-Lé´ France," 
-02 50 71 50 04
-02 50 71 50 05
-",ddets-associations@manche.gouv.fr,normandie,manche,49.117683,-1.085828,https://lannuaire.service-public.gouv.fr/normandie/manche/a56257ae-7c74-4f70-aa2a-52cb7534b4f5
-Greffe des associations - Savoie (Saint-Jean-de-Maurienne),Service des associations Sous-préfecture de Saint-Jean-de-Maurienne Rue de la Sous-Préfecture 73300 Saint-Jean-de-Maurienne France," 
-04 79 59 56 08
-04 79 59 56 11
-",sp-associations-saint-jean-de-maurienne@savoie.gouv.fr,auvergne-rhone-alpes,savoie,45.276264,6.344672,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/savoie/a5ec4083-f32f-4702-ab3f-238e3f3809eb
-Greffe des associations -Pé´le départemental de la Loire (Roanne),Sous-préfecture de Roanne Bureau des associations Rue Joseph-Déchelette 42300 Roanne France," 
-04 77 23 64 64
-",pref-associations@loire.gouv.fr,auvergne-rhone-alpes,loire,46.035324,4.069276,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/loire/a71022d2-5b62-4dcf-bb09-259a5bcb1876
-Greffe des associations - Corse du Sud (Ajaccio),Préfecture de Corse-du-Sud Cours Napoléon Palais Lantivy 20188 Ajaccio Cedex 9 France," 
-04 95 11 11 01
-",pref-greffe-associations@corse-du-sud.gouv.fr,corse,corse-du-sud,41.925465,8.738125,https://lannuaire.service-public.gouv.fr/corse/corse-du-sud/ab97c0cd-be72-46de-86a6-71989bf94bf8
-Greffe des associations - Loir-et-Cher (Romorantin-Lanthenay),Greffe des associations Sous-Préfecture de Romorantin-Lanthenay 3 place du Ché¢teau 41200 Romorantin-Lanthenay France," 
-02 54 70 41 41
-02 54 95 22 33
-",,centre-val-de-loire,loir-et-cher,47.35805,1.74246,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/loir-et-cher/adc1b5b2-45e7-41d7-9dbf-a3da9d39cf37
-Greffe des associations - Bas-Rhin (Illkirch-Graffenstaden),Tribunal de proximité d'Illkirch-Graffenstaden Registre des associations 144 A route de Lyon 67400 Illkirch-Graffenstaden France," 
-03 88 55 94 45
-0388559445
-",associations.tprx-illkirch-graffenstaden@justice.fr,grand-est,bas-rhin,48.52974,7.711272,https://lannuaire.service-public.gouv.fr/grand-est/bas-rhin/af25473e-7567-45ba-85ad-bc84aabdf775
-Greffe des associations - Haut-Rhin (Guebwiller),Greffe des associations Tribunal de proximité de Guebwiller 1 place Saint-Léger 68500 Guebwiller France," 
-03 89 62 17 20
-",associations.tprx-guebwiller@justice.fr,grand-est,haut-rhin,47.911785,7.2085557,https://lannuaire.service-public.gouv.fr/grand-est/haut-rhin/afc9463c-2ecd-487d-8687-e7bf38efc27d
-Greffe des associations - Indre-et-Loire (Tours),Bureau de la réglementation générale des élections et des associations 15 rue Bernard-Palissy 37000 Tours France," 
-02 47 64 37 37
-",pref-associations@indre-et-loire.gouv.fr,centre-val-de-loire,indre-et-loire,47.39369,0.6929842,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/indre-et-loire/afc666e7-0e78-4131-b2cf-e8cb4518c7bb
-Greffe des associations - Jura (Lons-le-Saunier),Préfecture de Lons-le-Saunier 8 rue de la Préfecture 39030 Lons-le-Saunier Cedex France," 
-03 84 86 84 00
-03 84 86 85 59
-",pref-associations@jura.gouv.fr,bourgogne-franche-comte,jura,46.6721,5.551388,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/jura/aff3203f-adcf-4b03-b44f-d14a82484a4a
-Greffe des associations - Haute-Marne (Chaumont),Préfecture de Haute-Marne 89 rue Victoire-de-la-Marne 52000 Chaumont France," 
-03 25 30 52 52
-",pref-associations@haute-marne.gouv.fr,grand-est,haute-marne,48.11525,5.140239,https://lannuaire.service-public.gouv.fr/grand-est/haute-marne/b4ae334e-d950-480f-8145-353f63657799
-Greffe des associations - Aisne (Laon et Soissons),Préfecture de l'Aisne 2 rue Paul-Doumer 02000 Laon France," 
-03 23 21 83 96
-",pref-associations@aisne.gouv.fr,hauts-de-france,aisne,49.564205,3.620878,https://lannuaire.service-public.gouv.fr/hauts-de-france/aisne/b57e3a02-ba96-4400-855b-439ab44c5ad6
-Greffe des associations - Aisne (Ché¢teau-Thierry),Service des associations 28 rue Saint-Crépin 02400 Ché¢teau-Thierry France," 
-03 60 09 80 57
-",sp-chateau-thierry@aisne.gouv.fr,hauts-de-france,aisne,49.045425,3.397297,https://lannuaire.service-public.gouv.fr/hauts-de-france/aisne/b638e209-7424-463d-82de-1184818660bc
-Greffe des associations - Pyrénées-Atlantiques (Bayonne),Sous-préfecture de Bayonne 2 avenue des allées Marines 64100 Bayonne France," 
-05 59 98 24 24
-",sp-associations-bayonne@pyrenees-atlantiques.gouv.fr,nouvelle-aquitaine,pyrenees-atlantiques,43.497555,-1.4851466,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/pyrenees-atlantiques/b6b3e904-a38a-4a2a-8b8c-2bb35488e0ec
-Greffe des associations - Haute-Marne (Saint-Dizier),Sous-préfecture de Saint-Dizier 54 rue Gambetta 52100 Saint-Dizier France," 
-03 25 56 94 55
-",sp-saint-dizier@haute-marne.gouv.fr,grand-est,haute-marne,48.636654,4.9521065,https://lannuaire.service-public.gouv.fr/grand-est/haute-marne/b759548e-3d0f-4b7c-8fd6-9df50fcce556
-Greffe des associations - Vendée (Fontenay-le-Comte),Greffe des associations Sous-préfecture de Fontenay-le-Comte 16-18 quai Victor-Hugo 85200 Fontenay-le-Comte France," 
-02 72 78 50 26
-02 51 50 14 20
-",sp-fontenay-le-comte@vendee.gouv.fr,pays-de-la-loire,vendee,46.46378,-0.8051035,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/vendee/b7aff3fd-237f-43fd-b4ee-1b5ce46a0ffd
-Greffe des associations - Haute-Corse (Bastia),Rond-point Maréchal-Leclerc-de-Hautecloque 20200 Bastia France," 
-04 95 34 52 69
-",pref-associations@haute-corse.gouv.fr,corse,haute-corse,42.702984,9.44818,https://lannuaire.service-public.gouv.fr/corse/haute-corse/b9429b10-d1a5-44af-af03-e6376dc538c1
-Greffe des associations - Haute-Vienne (Limoges),Greffe des associations DDETSPP 2 allée Saint-Alexis 87000 Limoges France," 
-05 19 76 12 57
-",pref-pass87@haute-vienne.gouv.fr,nouvelle-aquitaine,haute-vienne,45.8254,1.25895,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/haute-vienne/bc63a4fe-c80b-4912-a3be-a66a31197116
-Greffe des associations - Alpes-de-Haute-Provence (Digne-les-Bains),8 avenue du Docteur-Romieu 04000 Digne-les-Bains France," 
-04 92 36 72 00
-",pref-associations@alpes-de-haute-provence.gouv.fr,provence-alpes-cote-d-azur,alpes-de-haute-provence,44.09209,6.237949,https://lannuaire.service-public.gouv.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/bd57ad2b-b2a5-4bc7-8ef3-305bc0a09aca
-Greffe des associations - Maine-et-Loire (Saumur),Sous-préfecture de Saumur 33 rue Beaurepaire 49400 Saumur France," 
-02 41 81 83 83
-",sp-associations-saumur@Maine-et-Loire.gouv.fr,pays-de-la-loire,maine-et-loire,47.26018,-0.08118,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/maine-et-loire/bdec6d70-fbfc-44da-a2e8-ec000c3d57a9
-Greffe des associations - Hautes-Pyrénées (Tarbes),Greffe des associations Préfecture des Hautes-Pyrénées Place Charles-de-Gaulle 65000 Tarbes France," 
-05 62 56 65 65
-",prefecture@hautes-pyrenees.gouv.fr,occitanie,hautes-pyrenees,43.23328,0.06818,https://lannuaire.service-public.gouv.fr/occitanie/hautes-pyrenees/c561ac69-5e16-4fcc-874f-4d7d5698eb52
-Greffe des associations - Maine-et-Loire (Cholet),Sous-préfecture de Cholet 30 rue Trémolié¨res 49300 Cholet France," 
-02 41 81 81 52
-02 41 81 81 11
-",sp-associations-cholet@maine-et-loire.gouv.fr,pays-de-la-loire,maine-et-loire,47.061264,-0.885002,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/maine-et-loire/c710056b-bae4-448f-b024-a29493575b91
-Greffe des associations - Ille-et-Vilaine (Fougé¨res-Vitré),Sous-préfecture de Fougé¨res-Vitré Greffe des associations 9 avenue Frané§ois-Mitterrand 35300 Fougé¨res France," 
-02 99 94 56 00
-",sp-fougeres-vitre-associations@ille-et-vilaine.gouv.fr,bretagne,ille-et-vilaine,48.350742,-1.2011042,https://lannuaire.service-public.gouv.fr/bretagne/ille-et-vilaine/c748da02-41ca-4e2c-a68a-1e3e37583cbf
-Greffe des associations - Alpes-de-Haute-Provence (Barcelonnette),Sous-préfecture de Barcelonnette 16 allée des Dames 04400 Barcelonnette," 
-04 92 36 77 86
-04 92 36 77 84
-",sp-barcelonnette@alpes-de-haute-provence.gouv.fr,provence-alpes-cote-d-azur,alpes-de-haute-provence,44.385162,6.655141,https://lannuaire.service-public.gouv.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/c7a9b362-d14a-436f-946a-a83e9c357282
-Greffe des associations - Eure-et-Loir (Dreux),Sous-préfecture de Dreux Service des associations 2 rue des Capucins 28100 Dreux France," 
-02 37 27 72 00
-",pref-associations-dreux@eure-et-loir.gouv.fr,centre-val-de-loire,eure-et-loir,48.73743,1.369863,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/eure-et-loir/c7fbfecf-7fe0-4852-bd9a-b359d924ef7b
-Greffe des associations - Hautes-Pyrénées (Argelé¨s-Gazost),Sous-préfecture d'Argelé¨s-Gazost 1 avenue Monseigneur-Flauss 65400 Argelé¨s-Gazost France," 
-05 62 97 71 71
-",sp-argeles@hautes-pyrenees.gouv.fr,occitanie,hautes-pyrenees,43.00188,-0.099001,https://lannuaire.service-public.gouv.fr/occitanie/hautes-pyrenees/cc918ee3-458e-4f59-8a3c-c208188f768a
-Greffe des associations - Val-de-Marne (Nogent-sur-Marne),Service des associations Sous-préfecture de Nogent-sur-Marne 4 avenue du Maréchal-de-Lattre-de-Tassigny 94736 Nogent-sur-Marne Cedex France," 
-01 49 56 66 66
-",sp-nogent-associations@val-de-marne.gouv.fr,ile-de-france,val-de-marne,48.795326,2.4590023,https://lannuaire.service-public.gouv.fr/ile-de-france/val-de-marne/cd2cd8f9-7603-4302-8120-e6c432b99d6e
-Greffe des associations - Gironde (Lesparre-Médoc),Sous-préfecture de Lesparre-Médoc Bureau des associations 4 allée du 8-Mai-1945 33341 Lesparre-Médoc Cedex France," 
-05 56 90 60 60
-",sp-lesparre@gironde.gouv.fr,nouvelle-aquitaine,gironde,45.305813,-0.93519,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/gironde/d10ddf0a-1d93-4080-a37d-04a4d5f5d67f
-Greffe des associations - Saé´ne-et-Loire (Louhans),Greffe des associations Sous-préfecture de Louhans 11 rue des Bordes 71500 Louhans France," 
-03 85 75 77 76
-03 85 75 77 77
-",sp-associations-louhans@saone-et-loire,bourgogne-franche-comte,saone-et-loire,46.627365,5.2248325,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/saone-et-loire/d1d6786e-53ee-4e17-9a7d-f58eeda750d6
-Greffe des associations - Deux-Sé¨vres (Parthenay),Greffe des associations Sous-préfecture de Parthenay 20 boulevard de la Meilleraye 79200 Parthenay France," 
-05 49 94 19 33
-05 46 08 69 26
-",sp-parthenay@deux-sevres.gouv.fr,nouvelle-aquitaine,deux-sevres,46.645767,-0.248788,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/deux-sevres/d2006dc2-ac46-4a87-9c12-d0978d56f45c
-Greffes des associations - Pyrénées-Orientales (Ceret),Sous Préfecture de Céret 6 boulevard Simon-Batlle 66400 Ceret France," 
-04 68 51 67 40
-",sp-ceret-associations@pyrenees-orientales.gouv.fr,occitanie,pyrenees-orientales,42.48393,2.74566,https://lannuaire.service-public.gouv.fr/occitanie/pyrenees-orientales/d2633dd5-b0da-4003-a296-615126a5490b
-Greffe des associations - Ardennes (Charleville-Mézié¨res),18 rue Frané§ois-Mitterrand 08005 Charleville-Mézié¨res Cedex France," 
-03 10 07 33 86
-",,grand-est,ardennes,49.773876,4.713996,https://lannuaire.service-public.gouv.fr/grand-est/ardennes/d32a59ea-d6db-4d64-9752-9c24931bfe88
-Greffe des associations - Alpes-Maritimes (Nice),Préfecture des Alpes-Maritimes Bé¢timent Pela 147 boulevard du Mercantour 06286 Nice Cedex 3 France," 
-04 93 72 25 33
-04 93 72 20 00
-",pref-associations@alpes-maritimes.gouv.fr,provence-alpes-cote-d-azur,alpes-maritimes,43.67538,7.19965,https://lannuaire.service-public.gouv.fr/provence-alpes-cote-d-azur/alpes-maritimes/d3b8e76f-0610-45ba-939a-c9e962487201
-Greffe des associations - Charente-Maritime (Jonzac),Sous-préfecture de Jonzac Service des associations 4 rue du Ché¢teau 17000 Jonzac France," 
-05 46 27 43 00
-",pref-associations@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,45.44599,-0.4316154,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/charente-maritime/d44c9cff-8a37-4936-87a2-d2551d4dec32
-Greffe des associations - Tarn-et-Garonne (Montauban),Greffe des associations Préfecture de Tarn-et-Garonne 2 allée de l'Empereur 82013 Cedex Montauban France," 
-05 63 22 82 00
-",pref-associations@tarn-et-garonne.gouv.fr,occitanie,tarn-et-garonne,,,https://lannuaire.service-public.gouv.fr/occitanie/tarn-et-garonne/ddc2cffc-788e-4474-879e-af76a6f0ce4d
-Greffe des associations - Haute-Marne (Langres),Greffe des associations Sous-préfecture de Langres 8 rue Tassel 52200 Langres France," 
-03 25 87 07 57
-",sous-prefecture-de-langres@haute-marne.gouv.fr,grand-est,haute-marne,47.86749,5.3341107,https://lannuaire.service-public.gouv.fr/grand-est/haute-marne/e05de908-1f92-46b9-8d1c-053acaf88d7c
-Greffe des associations - Charente-Maritime (Rochefort),Sous-préfecture de Rochefort 21 rue Jean-Jauré¨s 17300 Rochefort France," 
-05 46 27 46 43
-",sp-rochefort@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,45.93795,-0.9595473,https://lannuaire.service-public.gouv.fr/nouvelle-aquitaine/charente-maritime/e2d9e5fc-a20f-407e-a41b-deaf204591af
-Greffe des associations - Saé´ne-et-Loire (Mé¢con),Greffe des associations Préfecture de Saé´ne-et-Loire 196 rue de Strasbourg 71021 Mé¢con Cedex 9 France," 
-03 85 21 81 00
-",pref-associations@saone-et-loire.gouv.fr,bourgogne-franche-comte,saone-et-loire,46.306606,4.8351545,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/saone-et-loire/e999c101-09a5-4d70-bc34-ff9ccfcfd634
-Greffe des associations - Haute-Loire (Le Puy-en-Velay),Direction départementale de la cohésion sociale et de la protection des populations de Haute-Loire 24 boulevard Alexandre-Clair 43000 Le Puy-en-Velay France," 
-04 71 09 93 86
-",pref-associations@haute-loire.gouv.fr,auvergne-rhone-alpes,haute-loire,45.039078,3.881893,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/haute-loire/ea6d5735-e403-4bf4-996e-f318356f652a
-Greffe des associations - Bas-Rhin (Saverne),Greffe des associations Tribunal judiciaire de Saverne 7 rue du Tribunal 67700 Saverne France," 
-03 88 71 61 51
-",associations.tj-saverne@justice.fr,grand-est,bas-rhin,48.7406,7.3648534,https://lannuaire.service-public.gouv.fr/grand-est/bas-rhin/ec52d6f0-21f2-41a8-82fe-930c117ff967
-Greffe des associations - Vendée (Les Sables-d'Olonne),Greffe des associations Sous-préfecture des Sables-d'Olonne 54 avenue Georges-Pompidou 85100 Les Sables-d'Olonne France," 
-02 51 23 93 94
-",sp-s-sables-d-olonne@vendee.gouv.fr,pays-de-la-loire,vendee,46.499645,-1.779885,https://lannuaire.service-public.gouv.fr/pays-de-la-loire/vendee/ee51fa19-51b0-47b0-80ff-f2c3ba33a91d
-Greffe des associations - Alpes-de-Haute-Provence (Forcalquier),Bureau des associations 3 place Martial-Sicard 04301 Forcalquier Cedex France," 
-04 92 36 77 45
-",pref-associations@alpes-de-haute-provence.gouv.fr,provence-alpes-cote-d-azur,alpes-de-haute-provence,43.960606,5.779359,https://lannuaire.service-public.gouv.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/ef52e361-199b-41e8-afe4-5c0da171aa5e
-Greffe des associations - Haut-Rhin (Thann),Greffe des associations Tribunal dâ€™instance 41 place De-Lattre-de-Tassigny 68800 Thann France," 
-03 89 37 08 48
-",associations.tprx-thann@justice.fr,grand-est,haut-rhin,,,https://lannuaire.service-public.gouv.fr/grand-est/haut-rhin/f003725e-d9b4-4b94-910d-155d00d1353d
-Greffe des associations - Seine-Maritime (Dieppe),Sous-préfecture de Dieppe 5 rue du 8-Mai-1945 76200 Dieppe France," 
-02 35 06 31 45
-02 35 06 30 21
-",sp-dieppe@seine-maritime.gouv.fr,normandie,seine-maritime,49.924335,1.0784494,https://lannuaire.service-public.gouv.fr/normandie/seine-maritime/f3b3363d-0e76-4802-89d8-c17c760540be
-Greffe des associations - Haute-Loire (Brioude),Sous-préfecture de Brioude 4 rue du 14-Juillet 43100 Brioude France," 
-04 71 50 81 81
-04 71 50 81 84
-",sous-prefecture-de-brioude@haute-loire.pref.gouv.fr,auvergne-rhone-alpes,haute-loire,45.295563,3.386482,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/haute-loire/f4b37c62-2238-4b4f-aca1-c9d54d3effc9
-Greffe des associations - Puy-de-Dé´me (Riom),Service des associations Sous-préfecture de Riom 9 rue Gilbert-Romme 63200 Riom France," 
-04 73 64 65 00
-04 73 64 65 11
-",sp-riom-associations@puy-de-dome.gouv.fr,auvergne-rhone-alpes,puy-de-dome,45.89273,3.115009,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/puy-de-dome/f5d87792-3697-4164-876d-2f4a93204fb3
-Greffe des associations - Eure-et-Loir (Ché¢teaudun),Sous-préfecture de Ché¢teaudun Service des associations 25 rue Jean-Moulin 28200 Ché¢teaudun France," 
-02 37 27 72 35
-",sp-chateaudun@eure-et-loir.gouv.fr,centre-val-de-loire,eure-et-loir,48.07214,1.3308483,https://lannuaire.service-public.gouv.fr/centre-val-de-loire/eure-et-loir/f77095bc-aa83-4123-bf31-826bdeebb8c3
-Greffe des associations - Ille-et-Vilaine (Redon),Sous-préfecture de Redon Service des associations Place Charles-de-Gaulle 35600 Redon France," 
-02 99 71 14 04
-",,bretagne,ille-et-vilaine,47.652237,-2.0831132,https://lannuaire.service-public.gouv.fr/bretagne/ille-et-vilaine/f922c4ff-5200-4d6d-b047-abde585fa5fe
-Greffe des associations - Cé´te-d'Or (Dijon),Préfecture de la Cé´te-d'Or 53 rue de la Préfecture 21000 Dijon France," 
-03 80 44 64 00
-",pref-associations@cote-dor.gouv.fr,bourgogne-franche-comte,cote-d-or,47.324825,5.042427,https://lannuaire.service-public.gouv.fr/bourgogne-franche-comte/cote-d-or/fa1ff7cd-6cec-476b-8404-b7cca9dc40fe
-Greffe des associations - Hautes-Alpes (Briané§on),Sous-préfecture de Briané§on 42 avenue de la République 05105 Briané§on Cedex France," 
-04 92 25 47 16
-",pref-associations@hautes-alpes.gouv.fr,provence-alpes-cote-d-azur,hautes-alpes,44.898457,6.639668,https://lannuaire.service-public.gouv.fr/provence-alpes-cote-d-azur/hautes-alpes/fa226761-79f9-4fc0-b7a1-b8f57a8aa446
-Greffe des associations - Val-de-Marne (L'Haé¿-les-Roses),Bureau de la réglementation générale - Section associations Sous-Préfecture de l'Haé¿-les-Roses 2 avenue Larroumé¨s 94246 L'Haé¿-les-Roses Cedex France," 
-01 49 56 65 19
-",pref-associations-lhay@val-de-marne.gouv.fr,ile-de-france,val-de-marne,48.777218,2.332693,https://lannuaire.service-public.gouv.fr/ile-de-france/val-de-marne/fbdee51d-ae7e-49cd-a2b2-4f1ca9eb2768
-Greffe des associations - Haute-Loire (Yssingeaux),Sous-préfecture d'Yssingeaux 22 rue d'Alsace-Lorraine 43200 Yssingeaux France," 
-04 71 65 71 00
-04 71 65 71 04
-",sp-yssingeaux@haute-loire.gouv.fr,auvergne-rhone-alpes,haute-loire,45.142666,4.123734,https://lannuaire.service-public.gouv.fr/auvergne-rhone-alpes/haute-loire/fc78c032-2fa8-4636-b7a1-d94c65c215d1
-Greffe des associations - Guyane (Cayenne),Préfecture de Cayenne Rue Fiedmond 97300 Cayenne,05 94 25 53 10,,,,,,
-Greffe des associations - Moselle (Sarreguemines),"Sous-préfecture de Sarreguemines 4 rue du Maréchal-Foch 57216 Sarreguemines Cedex France
-
-",03 87 27 62 62,sp-sarreguemines@moselle.gouv.fr,,,,,
+03 27 93 59 63",pref-associations@nord.gouv.fr,hauts-de-france,nord,50.377224,3.074798
+Greffe des associations - Morbihan (Pontivy),Service des associations sous-préfecture 8 rue François-Mitterrand 56300 Pontivy France,02 97 27 67 68,pref-associations@morbihan.gouv.fr,bretagne,morbihan,48.065044,-2.967869
+Greffe des associations - Loire (Montbrison),Sous-préfecture de Montbrison Bureau des associations Square Honoré-d'Urfé 42600 Montbrison France,"04 77 96 37 37
+04 77 96 37 28",pref-associations-montbrison@loire.gouv.fr,auvergne-rhone-alpes,loire,45.60976,4.063327
+Greffe des associations - Gironde (Libourne),Sous-préfecture de Libourne Service des associations 8 avenue de Verdun 33500 Libourne France,05 56 90 60 60,sp-libourne@gironde.gouv.fr,nouvelle-aquitaine,gironde,44.91059,-0.23954
+Greffe des associations - Indre (La Châtre),Sous-préfecture de La Châtre 1 avenue Aristide-Briand 36400 La Châtre France,02 54 29 51 85,sp-la-chatre@indre.gouv.fr,centre-val-de-loire,indre,46.582157,1.984546
+Greffe des associations - Aisne (Vervins),Sous-préfecture de Vervins Bureau des associations Rue Raoul-de-Coucy 02140 Vervins France,03 23 21 83 96,pref-associations@aisne.gouv.fr,hauts-de-france,aisne,49.834404,3.905803
+Greffe des associations - Aube (Troyes),"DSDEN de l'Aube Service départemental Ã  la jeunesse, Ã  lâ€™engagement, aux sports et Ã  la vie associative 30 rue Mitantier 10004 Troyes Cedex France",03 51 59 10 91,ce.sdjes10.vie-associative@ac-reims.fr,grand-est,aube,48.30142,4.080543
+Greffe des associations - Indre (Le Blanc),Sous-préfecture du Blanc Place du Général de Gaulle 36300 Le Blanc France,"02 54 29 51 65
+02 54 37 10 91",sp-le-blanc@indre.gouv.fr,centre-val-de-loire,indre,46.63233,1.06144
+Greffe des associations - Essonne (Étampes),Service des associations 4 rue Van-Loo 91152 Étampes Cedex France,01 69 91 91 91,pref-associations-sp-etampes@essonne.gouv.fr,ile-de-france,essonne,48.437004,2.165899
+Greffe des associations - Ariège (Foix),9 rue du Lieutenant-Paul-Delpech 09000 Foix France,05 61 02 43 75,ddcspp@ariege.gouv.fr,occitanie,ariege,42.960934,1.60588
+Greffe des associations - Tarn (Castres),Greffe des associations Sous-préfecture de Castres 16 boulevard Georges-Clemenceau 81100 Castres France,05 63 45 62 06,pref-associations@tarn.gouv.fr,occitanie,tarn,43.607548,2.2376945
+Greffe des associations - Dordogne (Bergerac),Sous-préfecture de Bergerac 16 place Gambetta 24100 Bergerac France,"05 53 02 24 24
+05 47 24 16 16",sp-bergerac@dordogne.gouv.fr,nouvelle-aquitaine,dordogne,44.85418,0.482292
+Greffe des associations - Somme (Amiens),Bureau du Greffe des associations Préfecture de la Somme 51 rue de la République 80000 Amiens France,03 22 97 80 80,pref-associations@somme.gouv.fr,hauts-de-france,somme,49.890438,2.296118
+Greffe des associations - Nord (Valenciennes),Sous-préfecture de Valenciennes 6 avenue des Dentellières 59300 Valenciennes France,03 27 14 59 59,sp-valenciennes@nord.gouv.fr,hauts-de-france,nord,50.35655,3.520573
+Greffe des associations - Dordogne (Nontron),Sous-préfecture de Nontron 12 bis boulevard Gambetta 24300 Nontron France,"05 53 02 24 24
+05 47 24 16 99",pref-associations-perigueux@dordogne.gouv.fr,nouvelle-aquitaine,dordogne,45.532196,0.66253
+Greffe des associations - Orne (Alençon),Préfecture de l'Orne 39 rue Saint-Blaise 61000 Alençon France,"02 33 80 60 33
+02 33 80 60 36",pref-associations@orne.gouv.fr,normandie,orne,48.43385,0.090534
+Greffe des associations - Cantal (Mauriac),Sous-préfecture de Mauriac Rue Guillaume-Duprat 15200 Mauriac France,04 71 68 06 06,pref-sp-mauriac-associations@cantal.gouv.fr,auvergne-rhone-alpes,cantal,45.216812,2.332152
+Greffe des associations - Sarthe (Le Mans),Direction de la Citoyenneté et de la Légalité - Bureau de la Réglementation Générale et des Élections Préfecture de la Sarthe Place Aristide Briand 72041 Le Mans Cedex 9 France,02 85 32 72 72,associations72@sarthe.gouv.fr,pays-de-la-loire,sarthe,47.996815,0.206706
+Greffe des associations - Corrèze (Tulle),1 rue Souham 19000 Tulle France,,pref-associations@corr%C3%A8ze.gouv.fr,nouvelle-aquitaine,correze,45.271362,1.7690881
+Greffe des associations - Marne (Reims),Sous-préfecture de Reims Place Royale 51100 Reims France,03 26 86 71 00,sp-reims-associations51@marne.gouv.fr,grand-est,marne,49.255695,4.033753
+Greffe des associations - Eure (Évreux),Direction départementale de la cohésion sociale de l'Eure Boulevard Georges-Chauvin 27000 Évreux France,02 32 24 88 28,,normandie,eure,49.025482,1.1430305
+Greffe des associations - Moselle (Metz),Tribunal d'instance de Metz 3 rue Haute-Pierre 57000 Metz France,03 87 56 75 00,accueil-metz@justice.fr,grand-est,moselle,49.11705,6.170733
+Greffe des associations - Moselle (Thionville),Tribunal d'instance de Thionville 12 allée Raymond-Poincaré 57100 Thionville France,03 55 84 30 20,,grand-est,moselle,49.356792,6.16298
+Greffe des associations - Morbihan (Lorient),Quai de Rohan 56100 Lorient France,02 97 27 67 68,pref-associations@morbihan.gouv.fr,bretagne,morbihan,47.74539,-3.36255
+Greffe des associations - Ardèche (Largentière),Service des associations 23 rue Camille-Vielfaure 07110 Largentière France,"04 75 89 90 90
+04 75 89 90 83",sp-largentiere@ardeche.gouv.fr,auvergne-rhone-alpes,ardeche,44.541637,4.2910933
+Greffe des associations - Ain (Belley),Service des associations 24 rue des Barons 01300 Belley France,04 79 81 01 09,sp-belley-associations@ain.gouv.fr,auvergne-rhone-alpes,ain,45.758163,5.687284
+Greffe des associations - Drôme (Valence),Direction départementale de la cohésion sociale de la Drôme Service des associations 33 avenue de Romans 26000 Valence France,04 26 52 22 61,ddets-associations@drome.gouv.fr,auvergne-rhone-alpes,drome,44.93303,4.899979
+Greffe des associations - Guyane (Cayenne),Préfecture de Cayenne Rue Fiedmond 97300 Cayenne,05 94 25 53 10,,guyane,guyane,4.94058,-52.33523
+Greffe des associations - Moselle (Sarreguemines),Sous-préfecture de Sarreguemines 4 rue du Maréchal-Foch 57216 Sarreguemines Cedex France,03 87 27 62 62,sp-sarreguemines@moselle.gouv.fr,grand-est,moselle,49.112545,7.072496
+Greffe des associations - Vaucluse (Apt),Greffe des associations Sous-préfecture d'Apt Place Gabriel-Péri 84400 Apt France,04 90 04 38 00,sp-apt@vaucluse.gouv.fr,provence-alpes-cote-d-azur,vaucluse,43.875824,5.395039
+Greffe des associations - Finistère - Brest,3 rue Parmentier 29200 Brest France,02 90 77 20 00,sp-brest-associations@finistere.gouv.fr,bretagne,finistere,48.385513,-4.484236
+Greffe des associations - Var (Toulon),Greffe des associations Préfecture du Var Boulevard du 112e Régiment-d'Infanterie 83000 Toulon France,,pref-associations@var.gouv.fr,provence-alpes-cote-d-azur,var,43.12961,5.93217
+Greffe des associations - Loire-Atlantique (Châteaubriant-Ancenis),Sous-Préfecture de Châteaubriant-Ancenis Pôle départemental des associations 22 rue Gabriel-Delatour 44146 Châteaubriant France,02 40 81 59 38,pref-associations@loire-atlantique.gouv.fr,pays-de-la-loire,loire-atlantique,,
+Greffe des associations - Yvelines (Mantes-la-Jolie),"Bureau de la coordination, de l'animation territoriale et de la réglementation générale Greffe des associations 18-20 rue de Lorraine 78200 Mantes-la-Jolie",01 30 92 85 26,sp-mantes-associations@yvelines.gouv.fr,ile-de-france,yvelines,48.987656,1.7140117
+Greffe des associations - Moselle (Saint-Avold),Tribunal d'instance de Saint-Avold 37 avenue Clemenceau 57500 Saint-Avold France,"03 87 92 11 55
+03 87 92 49 86",,grand-est,moselle,49.107315,6.7047276
+Greffe des associations - Lot-et-Garonne (Marmande-Nérac),Sous-préfecture de Marmande-Nérac 93 rue de la Libération 47200 Marmande,05 24 29 23 97,pref-associations@lot-et-garonne.gouv.fr,nouvelle-aquitaine,lot-et-garonne,44.50042,0.15989
+Greffe des associations - Loiret (Orléans - Montargis - Pithiviers),Délégation régionale académique Ã  la jeunesse Ã  l'engagement et aux sports Bâtiment M 131 rue du Faubourg-Bannier 45000 Orléans France,02 36 47 72 96,js-associations@ac-orleans-tours.fr,centre-val-de-loire,loiret,47.91532,1.8994372
+Greffe des associations - Eure-et-Loir (Chartres),D.D.E.T.S.P.P dâ€™Eure-et-Loir Greffe des associations 15 place de la République 28019 Chartres Cedex France,02 37 20 51 00,ddetspp-associations@eure-et-loir.gouv.fr,centre-val-de-loire,eure-et-loir,48.446247,1.4809585
+Greffe des associations - Meurthe-et-Moselle (Nancy),Préfecture de Meurthe-et-Moselle 1 rue Préfet-Claude-Érignac 54000 Nancy France,03 83 34 26 26,pref-associations@meurthe-et-moselle.gouv.fr,grand-est,meurthe-et-moselle,48.69336,6.184366
+Greffe des associations - Territoire de Belfort (Belfort),Greffe des associations Préfecture de Belfort 1 rue Bartholdi 90020 Belfort Cedex France,03 84 57 16 95,pref-associations@territoire-de-belfort.gouv.fr,bourgogne-franche-comte,territoire-de-belfort,47.638176,6.861919
+Greffe des associations - Val-d'Oise (Cergy-Pontoise),Bureau des associations Préfecture du Val-d'Oise 5 avenue Bernard-Hirsch 95010 Cergy-Pontoise France,01 34 20 94 11,,ile-de-france,val-d-oise,49.03365,2.0784628
+Greffe des associations - Alpes-de-Haute-Provence (Castellane),Sous-préfecture de Castellane Bureau des associations 209 rue du 8-Mai 04120 Castellane France,"04 92 36 77 86
+04 92 36 72 00",pref-associations@alpes-de-haute-provence.gouv.fr,provence-alpes-cote-d-azur,alpes-de-haute-provence,43.847805,6.509835
+Greffe des associations - Charente-Maritime (Saint-Jean-d'Angély),Sous-préfecture de Saint-Jean-d'Angély Service des associations 28 place de l'Hôtel-de-Ville 17415 Saint-Jean-d'Angély France,05 46 32 71 87,pref-associations@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,45.94475,-0.5182049
+Greffe des associations - Haute-Savoie (Annecy - Thonon-les-Bains - Saint-Julien-en-Genevois),Préfecture de Haute-Savoie 14 rue du 30e-Régiment-d'Infanterie 74000 Annecy France,"04 50 33 60 00
+04 50 33 60 07",pref-associations@haute-savoie.gouv.fr,auvergne-rhone-alpes,haute-savoie,45.899246,6.129384
+Greffe des associations - Landes (Mont-de-Marsan),Service départemental Ã  la jeunesse Ã  l'engagement et aux sports Cité Galliane 5 avenue Antoine-Dufau 40000 Mont-de-Marsan France,05 40 54 73 71,greffe-assos.dsden40@ac-bordeaux.fr,nouvelle-aquitaine,landes,43.893684,-0.494593
+Greffe des associations - Ardèche (Tournon-sur-Rhône),Service des associations 16 quai Marc Seguin 07300 Tournon-sur-Rhône Cedex France,04 75 07 07 70,sp-tournon@ardeche.gouv.fr,auvergne-rhone-alpes,ardeche,45.067795,4.83401
+Greffes des associations - Pyrénées-Orientales (Prades),Service Association Sous Préfecture de Prades 177 avenue du Général-de-Gaulle 66500 Prades,04 68 51 67 80,sp-prades-associations@pyrenees-orientales.gouv.fr,occitanie,pyrenees-orientales,42.61572,2.421459
+Greffe des associations - Vienne (arrondissement de Poitiers et de Montmorillon),Greffe des associations Poitiers et Montmorillon Sous-préfecture de Montmorillon 1 boulevard de Strasbourg 86500 Montmorillon France,05 49 47 25 23,pref-associations-poit@vienne.gouv.fr,nouvelle-aquitaine,vienne,46.58094,0.384778
+Greffe des associations - Charente-Maritime (La Rochelle),Cité administrative Duperré 5 place des Cordeliers 17000 La Rochelle France,05 46 27 44 26,pref-associations@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,46.163017,-1.144679
+Greffe des associations - Hauts-de-Seine (Antony),Greffe des associations Sous-préfecture d'Antony 99 avenue du Général-de-Gaulle 92161 Antony Cedex France,"01 56 45 38 11
+01 40 97 20 00",sp-antony@hauts-de-seine.gouv.fr,ile-de-france,hauts-de-seine,48.761677,2.3000436
+Greffe des associations - Pyrénées-Orientales (Perpignan),Service Associations Préfecture des Pyrénées-Orientales 24 quai Sadi-Carnot 66100 Perpignan France,"04 68 51 66 66
+04 68 51 66 37",pref-associations@pyrenees-orientales.gouv.fr,occitanie,pyrenees-orientales,42.70003,2.893436
+Greffe des associations - Val-d'Oise (Sarcelles),Sous-préfecture de Sarcelles Bureau des collectivités territoriales et des affaires réglementaires 1 boulevard François-Mitterrand 95200 Sarcelles France,01 34 04 30 51,associations-sarcelles@val-doise.pref.gouv.fr,ile-de-france,val-d-oise,48.98977,2.3751588
+Greffe des associations - Charente-Maritime (Saintes),Bureau des associations 12 place du Synode 17100 Saintes France,05 46 27 46 87,sp-saintes@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,45.744873,-0.6334421
+Greffe des associations - Vendée (La Roche-sur-Yon),Greffe des associations Préfecture de la Vendée 29 rue Delille 85922 La Roche-sur-Yon Cedex 9 France,02 51 36 70 85,prefecture@vendee.gouv.fr,pays-de-la-loire,vendee,46.66758,-1.427903
+Greffe des associations - La Réunion (Saint-Paul),Greffe des associations Sous-préfecture de Saint-Paul 5 rue Évariste-de-Parny 97415 Saint-Paul Cedex France,02 62 35 89 50,associations@reunion.pref.gouv.fr,la-reunion,la-reunion,-21.008406,55.270683
+Greffe des associations - Guadeloupe (Pointe-Ã -Pitre),Bergevin 35 rue de la Ville-dâ€™Orly 97110 Pointe-Ã -Pitre France,06 90 29 55 00,ass.@gmail.com,guadeloupe,guadeloupe,16.246058,-61.54165
+Greffe des associations - Nièvre (Château-Chinon),Sous-préfecture de Château-Chinon 1 rue du Marché 58120 Château-Chinon France,03 86 79 48 48,sp-chateau-chinon@nievre.gouv.fr,bourgogne-franche-comte,nievre,47.064285,3.934082
+Greffe des associations - Eure-et-Loir (Nogent-le-Rotrou),Sous-préfecture de Nogent-le-Rotrou Bureau des associations 45 rue Saint-Laurent 28401 Nogent-le-Rotrou France,02 37 27 71 56,pref-associations@eure-et-loir.gouv.fr,centre-val-de-loire,eure-et-loir,48.31649,0.81665
+Greffe des associations - Haute-Vienne (Rochechouart),Greffe des associations Sous-préfecture de Rochechouart 2 place des Halles 87600 Rochechouart France,"05 87 03 11 30
+05 55 43 83 10",sp-rochechouart@haute-vienne.gouv.fr,nouvelle-aquitaine,haute-vienne,48.88364,2.349199
+Greffe des associations - Haute-Garonne (Muret),Sous-préfecture de Muret Service des associations 10 allées Niel 31600 Muret,05 34 45 34 45,pref-public-associations@haute-garonne.gouv.fr,occitanie,haute-garonne,43.459015,1.3261784
+Greffe des associations - Marne (Vitry-le-François),Sous-préfecture de Vitry-le-François 4 rue Maitre-Edmé 51300 Vitry-le-François France,03 26 74 00 54,sp-vitry-le-francois@marne.gouv.fr,grand-est,marne,48.723637,4.585693
+Greffe des associations - Ille-et-Vilaine (Rennes),Préfecture d'Ille-et-Vilaine 81 Boulevard d'Armorique 35026 Rennes Cedex 9 France,02 21 86 25 35,pref-associations@ille-et-vilaine.gouv.fr,bretagne,ille-et-vilaine,48.130707,-1.67486
+Greffe des associations - Hauts-de-Seine (Nanterre),Greffe des associations 1901 Préfecture des Hauts-de-Seine 167-177 avenue Joliot-Curie 92013 Nanterre Cedex France,01 40 97 45 78,pref-associations1901@hauts-de-seine.gouv.fr,ile-de-france,hauts-de-seine,48.896748,2.2167718
+Greffe des associations - Bas-Rhin (Sélestat),Service des associations Tribunal d'instance de Sélestat 17 allée de la 1ère-Armée 67600 Sélestat France,03 88 57 40 50,associations.tprx-selestat@justice.fr,grand-est,bas-rhin,48.259384,7.454241
+Greffe des associations - Saône-et-Loire (Charolles),Greffe des associations Sous-préfecture de Charolles 28 rue de la Madeleine 71120 Charolles France,"03 85 88 02 53
+03 85 21 81 00",spref-charolles.pref71@saone-et-loire.gouv.fr,bourgogne-franche-comte,saone-et-loire,46.43213,4.277328
+Greffe des associations - Yvelines (Saint-Germain-en-Laye),Greffe des associations Sous-préfecture de Saint-Germain-en-Laye 1 rue du Panorama 78100 Saint-Germain-en-Laye France,01 30 61 34 00,pref-stgermain-assoc1901@yvelines.gouv.fr,ile-de-france,yvelines,48.892845,2.0810297
+Greffe des associations - Saône-et-Loire (Autun),Greffe des associations Sous-préfecture d'Autun 21 rue de l'Arquebuse 71400 Autun France,"03 85 86 93 10
+03 85 21 81 00",sp-autun-pref71@saone-et-loire.gouv.fr,bourgogne-franche-comte,saone-et-loire,46.95071,4.303233
+Greffe des associations - Saône-et-Loire (Chalon-sur-Saône),Greffe des associations Sous-préfecture de Chalon-sur-Saône 28 rue Général-Leclerc 71100 Chalon-sur-Saône France,"03 85 21 81 00
+03 85 42 55 55",pref-associations@saone-et-loire.gouv.fr,bourgogne-franche-comte,saone-et-loire,46.782566,4.853685
+Greffe des associations - Haute-Saône (Vesoul),Service des Associations Préfecture de la Haute-Saône 1 rue de la Préfecture 70000 Vesoul France,03 84 77 70 74,pref-associations@haute-saone.gouv.fr,bourgogne-franche-comte,haute-saone,47.623165,6.153385
+Greffe des associations - Maine-et-Loire (Segré-en-Anjou Bleu),Sous-préfecture de Segré 2 rue Lamartine 49500 Segré-en-Anjou Bleu France,"02 41 94 70 60
+02 41 81 80 80",sp-segre@maine-et-loire.gouv.fr,pays-de-la-loire,maine-et-loire,47.682034,-0.869632
+Greffe des associations - Lozère (Florac-Trois-Rivières),Sous-préfecture de Florac 14 esplanade Marceau-Farelle 48400 Florac-Trois-Rivières France,"04 66 65 62 76
+04 66 65 62 80",sp-florac@lozere.gouv.fr,occitanie,lozere,44.325207,3.593608
+Greffe des associations - Vienne (arrondissement de Châtellerault),Greffe des associations Sous-préfecture Châtellerault 2 rue Choisnin 86100 Châtellerault France,05 49 47 24 64,sp-chatellerault@vienne.gouv.fr,nouvelle-aquitaine,vienne,46.816566,0.548181
+Greffe des associations - Bas-Rhin (Strasbourg),Tribunal Judiciaire de Strasbourg 45 rue du Fossé-des-Treize 67000 Strasbourg France,03 88 15 59 29,associations.tj-strasbourg@justice.fr,grand-est,bas-rhin,48.5902,7.745914
+Greffe des associations - Côtes-d'Armor (Saint-Brieuc),Préfecture des Côtes-d'Armor Greffe des associations 1 place du Général-de-Gaulle 22000 Saint-Brieuc France,02 21 27 31 35,greffe-associations@cotes-darmor.gouv.fr,bretagne,cotes-d-armor,48.513874,-2.764382
+Greffe des associations - Bouches-du-Rhône (Istres),Mission départementale vie associative Sous-préfecture d'Istres Avenue des Bolles 13000 Istres France,04 42 86 57 69,sp-istres-associations@bouches-du-rhone.gouv.fr,provence-alpes-cote-d-azur,bouches-du-rhone,43.503796,4.994542
+Greffe des associations - Loir-et-Cher (Vendôme),Bureau des associations 8 place Saint-Martin 41106 Vendôme Cedex,02 54 73 57 05,,centre-val-de-loire,loir-et-cher,47.79183,1.066606
+Greffe des associations - Nièvre (Cosne-Cours-sur-Loire),Sous-préfecture 7 bis rue Eugène-Pelletan 58200 Cosne-Cours-sur-Loire France,03 86 26 70 48,sous-prefecture-de-cosne-sur-loire@nievre.pref.gouv.fr,bourgogne-franche-comte,nievre,47.41219,2.922181
+Greffe des associations - Dordogne (Sarlat-la-Canéda),Place Salvador-Allende 24200 Sarlat-la-Canéda France,05 47 24 16 52,sp-sarlat@dordogne.gouv.fr,nouvelle-aquitaine,dordogne,44.8905,1.2192457
+Greffe des associations - Corrèze (Brive-la-Gaillarde),Sous-préfecture de Brive 2 boulevard Jules-Ferry 19011 Brive-la-Gaillarde Cedex France,05 55 17 79 53,sp-brive@correze.gouv.fr,nouvelle-aquitaine,correze,45.156986,1.534916
+Greffe des associations - Val-d'Oise (Argenteuil),Greffe des associations Sous-préfecture d'Argenteuil 2 rue Alfred-Labrière 95100 Argenteuil France,01 34 20 95 95,sp-associations-Argenteuil@val-doise.gouv.fr,ile-de-france,val-d-oise,48.943573,2.2555459
+Greffe des associations - Aisne (Saint-Quentin),Service des associations 22 rue de la Sous-préfecture 02100 Saint-Quentin France,03 23 06 61 06,pref-associations@saint-quentin.gouv.fr,hauts-de-france,aisne,49.846493,3.291965
+Greffe des associations - Hautes-Pyrénées (Bagnères-de-Bigorre),Sous-préfecture de Bagnères-de-Bigorre 4 avenue Jacques-Soubielle 65201 Bagnères-de-Bigorre Cedex France,05 62 91 30 30,sp-bagneres@hautes-pyrenees.gouv.fr,occitanie,hautes-pyrenees,43.06138,0.153143
+Greffe des associations - Nord (Avesnes-sur-Helpe),Service des associations Sous-préfecture d'Avesnes-sur-Helpe 1 rue Gossuin 59440 Avesnes-sur-Helpe France,"03 27 61 59 59
+03 27 61 59 66",sp-associations-avesnes@nord.gouv.fr,hauts-de-france,nord,50.120777,3.932952
+Greffe des associations - Loire-Atlantique (Nantes),Préfecture de Loire-Atlantique Service des associations 6 quai Ceineray 44000 Nantes France,02 40 41 22 16,pref-associations@loire-atlantique.gouv.fr,pays-de-la-loire,loire-atlantique,47.220078,-1.5541056
+Greffe des associations - Maine-et-Loire (Angers),1er étage Place Michel-Debré 49934 Angers Cedex 9 France,02 41 81 81 11,pref-associations@maine-et-loire.gouv.fr,pays-de-la-loire,maine-et-loire,47.46859,-0.5529546
+Greffe des associations - Mayenne (Château-Gontier),Sous-préfecture de Château-Gontier 4 rue de la Petite-Lande 53200 Château-Gontier-sur-Mayenne France,"02 53 54 54 52
+02 53 54 54 59",pref-associations@mayenne.gouv.fr,pays-de-la-loire,mayenne,47.830673,-0.7081526
+Greffe des associations - Bas-Rhin (Schiltigheim),Tribunal de proximité de Schiltigheim 10 rue du Tribunal 67300 Schiltigheim France,03 88 19 27 82,associations.tprx-schiltigheim@justice.fr,grand-est,bas-rhin,48.60341,7.7547636
+Greffe des associations - Ille-et-Vilaine (Saint-Malo),Sous-préfecture de Saint-Malo Service des associations 3 rue Roger-Vercel 35400 Saint-Malo France,02 90 04 43 43,sp-saint-malo-associations@ille-et-vilaine.gouv.fr,bretagne,ille-et-vilaine,48.652416,-2.010724
+Greffe des associations - Deux-Sèvres (Bressuire),Greffe des associations Sous-préfecture de Bressuire 4 rue des Hardilliers 79300 Bressuire France,05 49 65 61 71,sp-bressuire@deux-sevres.gouv.fr,nouvelle-aquitaine,deux-sevres,46.843372,-0.4873418
+Greffe des associations - Meuse (Bar-le-Duc),Préfecture de Bar-le-Duc 40 rue du Bourg 55000 Bar-le-Duc France,"03 29 77 58 69
+03 29 77 55 55",pref-associations@meuse.gouv.fr,grand-est,meuse,48.77399,5.157907
+Greffe des associations - Seine-Saint-Denis (Bobigny),Préfecture Bureau des associations et des élections 1 esplanade Jean-Moulin 93000 Bobigny France,01 41 60 60 22,pref-associations@seine-saint-denis.gouv.fr,ile-de-france,seine-saint-denis,48.9053,2.450472
+Greffe des associations - Seine-Maritime (Le Havre),Sous-préfecture du Havre 95 boulevard de Strasbourg 76600 Le Havre France,02 35 13 34 32,pref-associations-havre@seine-maritime.gouv.fr,normandie,seine-maritime,49.493244,0.112316
+Greffe départemental des associations - Aveyron (Millau),Greffe départemental des associations de l'Aveyron 39 avenue de la République 12100 Millau France,05 65 61 17 00,pref-associations@aveyron.gouv.fr,occitanie,aveyron,44.10288,3.0766492
+Greffe des associations - Haut-Rhin (Colmar),Greffe des associations Tribunal judiciaire de Colmar 10 rue des Augustins 68020 Colmar France,"03 89 24 77 31
+03 89 24 45 24",associations.tj-colmar@justice.fr,grand-est,haut-rhin,48.076252,7.356973
+Greffe des associations - Jura (Saint-Claude),Sous-préfecture 1 rue de la Sous-Préfecture 39200 Saint-Claude,"03 84 41 32 00
+03 84 41 32 25",ddetspp@jura.gouv.fr,bourgogne-franche-comte,jura,46.386185,5.86577
+Greffe des associations - Deux-Sèvres (Niort),Greffe des associations Préfecture des Deux-Sèvres 4 rue Du-Guesclin 79099 Niort Cedex 9 France,05 49 08 69 15,pref-associations@deux-sevres.gouv.fr,nouvelle-aquitaine,deux-sevres,46.32442,-0.46555
+Greffe des associations - Val-de-Marne (Créteil),Bureau de la Réglementation Générale et des Élections Préfecture du Val-de-Marne 21-29 avenue du Général de Gaulle 94038 Créteil Cedex France,01 49 56 62 09,pref-associations@val-de-marne.gouv.fr,ile-de-france,val-de-marne,48.78228,2.45079
+Greffe des associations - Guadeloupe (Basse-Terre),Préfecture de la Guadeloupe Palais d'Orléans Rue Lardenoy 97100 Basse-Terre France,05 90 99 39 00,associations-loi-1901@guadeloupe.gouv.fr,guadeloupe,guadeloupe,15.99235,-61.72233
+Greffe des associations - Bas-Rhin (Molsheim),Tribunal de proximité de Molsheim 3 rue du Maréchal-Kellermann 67120 Molsheim France,03 88 49 72 35,associations.tprx-molsheim@justice.fr,grand-est,bas-rhin,48.54107,7.494302
+Greffe des associations - Seine-Maritime (Rouen),Bureau des associations Préfecture de Seine-Maritime 7 place de la Madeleine 76000 Rouen France,"02 32 76 52 43
+02 32 76 50 00",pref-associations@seine-maritime.gouv.fr,normandie,seine-maritime,49.44557,1.079838
+Greffe des associations - Pôle départemental - Seine-et-Marne (Melun),Greffe des associations - pôle départemental Préfecture de Seine-et-Marne 12 rue des Saints Pères 77010 Melun Cedex France,01 64 71 77 77,pref-associations@seine-et-marne.gouv.fr,ile-de-france,seine-et-marne,48.54183,2.654298
+Greffe des associations - Manche (Saint-Lô),Greffe des associations DDETS de la Manche 1 bis rue de la Libération 50000 Saint-Lô France,"02 50 71 50 04
+02 50 71 50 05",ddets-associations@manche.gouv.fr,normandie,manche,49.117683,-1.085828
+Greffe des associations - Savoie (Saint-Jean-de-Maurienne),Service des associations Sous-préfecture de Saint-Jean-de-Maurienne Rue de la Sous-Préfecture 73300 Saint-Jean-de-Maurienne France,"04 79 59 56 08
+04 79 59 56 11",sp-associations-saint-jean-de-maurienne@savoie.gouv.fr,auvergne-rhone-alpes,savoie,45.276264,6.344672
+Greffe des associations -Pôle départemental de la Loire (Roanne),Sous-préfecture de Roanne Bureau des associations Rue Joseph-Déchelette 42300 Roanne France,04 77 23 64 64,pref-associations@loire.gouv.fr,auvergne-rhone-alpes,loire,46.035324,4.069276
+Greffe des associations - Corse du Sud (Ajaccio),Préfecture de Corse-du-Sud Cours Napoléon Palais Lantivy 20188 Ajaccio Cedex 9 France,04 95 11 11 01,pref-greffe-associations@corse-du-sud.gouv.fr,corse,corse-du-sud,41.925465,8.738125
+Greffe des associations - Loir-et-Cher (Romorantin-Lanthenay),Greffe des associations Sous-Préfecture de Romorantin-Lanthenay 3 place du Château 41200 Romorantin-Lanthenay France,"02 54 70 41 41
+02 54 95 22 33",,centre-val-de-loire,loir-et-cher,47.35805,1.74246
+Greffe des associations - Bas-Rhin (Illkirch-Graffenstaden),Tribunal de proximité d'Illkirch-Graffenstaden Registre des associations 144 A route de Lyon 67400 Illkirch-Graffenstaden France,"03 88 55 94 45
+0388559445",associations.tprx-illkirch-graffenstaden@justice.fr,grand-est,bas-rhin,48.52974,7.711272
+Greffe des associations - Indre-et-Loire (Tours),Bureau de la réglementation générale des élections et des associations 15 rue Bernard-Palissy 37000 Tours France,02 47 64 37 37,pref-associations@indre-et-loire.gouv.fr,centre-val-de-loire,indre-et-loire,47.39369,0.6929842
+Greffe des associations - Haut-Rhin (Guebwiller),Greffe des associations Tribunal de proximité de Guebwiller 1 place Saint-Léger 68500 Guebwiller France,03 89 62 17 20,associations.tprx-guebwiller@justice.fr,grand-est,haut-rhin,47.911785,7.2085557
+Greffe des associations - Jura (Lons-le-Saunier),Préfecture de Lons-le-Saunier 8 rue de la Préfecture 39030 Lons-le-Saunier Cedex France,"03 84 86 84 00
+03 84 86 85 59",pref-associations@jura.gouv.fr,bourgogne-franche-comte,jura,46.6721,5.551388
+Greffe des associations - Haute-Marne (Chaumont),Préfecture de Haute-Marne 89 rue Victoire-de-la-Marne 52000 Chaumont France,03 25 30 52 52,pref-associations@haute-marne.gouv.fr,grand-est,haute-marne,48.11525,5.140239
+Greffe des associations - Aisne (Laon et Soissons),Préfecture de l'Aisne 2 rue Paul-Doumer 02000 Laon France,03 23 21 83 96,pref-associations@aisne.gouv.fr,hauts-de-france,aisne,49.564205,3.620878
+Greffe des associations - Aisne (Château-Thierry),Service des associations 28 rue Saint-Crépin 02400 Château-Thierry France,03 60 09 80 57,sp-chateau-thierry@aisne.gouv.fr,hauts-de-france,aisne,49.045425,3.397297
+Greffe des associations - Pyrénées-Atlantiques (Bayonne),Sous-préfecture de Bayonne 2 avenue des allées Marines 64100 Bayonne France,05 59 98 24 24,sp-associations-bayonne@pyrenees-atlantiques.gouv.fr,nouvelle-aquitaine,pyrenees-atlantiques,43.497555,-1.4851466
+Greffe des associations - Haute-Marne (Saint-Dizier),Sous-préfecture de Saint-Dizier 54 rue Gambetta 52100 Saint-Dizier France,03 25 56 94 55,sp-saint-dizier@haute-marne.gouv.fr,grand-est,haute-marne,48.636654,4.9521065
+Greffe des associations - Vendée (Fontenay-le-Comte),Greffe des associations Sous-préfecture de Fontenay-le-Comte 16-18 quai Victor-Hugo 85200 Fontenay-le-Comte France,"02 72 78 50 26
+02 51 50 14 20",sp-fontenay-le-comte@vendee.gouv.fr,pays-de-la-loire,vendee,46.46378,-0.8051035
+Greffe des associations - Haute-Corse (Bastia),Rond-point Maréchal-Leclerc-de-Hautecloque 20200 Bastia France,04 95 34 52 69,pref-associations@haute-corse.gouv.fr,corse,haute-corse,42.702984,9.44818
+Greffe des associations - Haute-Vienne (Limoges),Greffe des associations DDETSPP 2 allée Saint-Alexis 87000 Limoges France,05 19 76 12 57,pref-pass87@haute-vienne.gouv.fr,nouvelle-aquitaine,haute-vienne,45.8254,1.25895
+Greffe des associations - Alpes-de-Haute-Provence (Digne-les-Bains),8 avenue du Docteur-Romieu 04000 Digne-les-Bains France,04 92 36 72 00,pref-associations@alpes-de-haute-provence.gouv.fr,provence-alpes-cote-d-azur,alpes-de-haute-provence,44.09209,6.237949
+Greffe des associations - Maine-et-Loire (Saumur),Sous-préfecture de Saumur 33 rue Beaurepaire 49400 Saumur France,02 41 81 83 83,sp-associations-saumur@Maine-et-Loire.gouv.fr,pays-de-la-loire,maine-et-loire,47.26018,-0.08118
+Greffe des associations - Hautes-Pyrénées (Tarbes),Greffe des associations Préfecture des Hautes-Pyrénées Place Charles-de-Gaulle 65000 Tarbes France,05 62 56 65 65,prefecture@hautes-pyrenees.gouv.fr,occitanie,hautes-pyrenees,43.23328,0.06818
+Greffe des associations - Maine-et-Loire (Cholet),Sous-préfecture de Cholet 30 rue Trémolières 49300 Cholet France,"02 41 81 81 52
+02 41 81 81 11",sp-associations-cholet@maine-et-loire.gouv.fr,pays-de-la-loire,maine-et-loire,47.061264,-0.885002
+Greffe des associations - Ille-et-Vilaine (Fougères-Vitré),Sous-préfecture de Fougères-Vitré Greffe des associations 9 avenue François-Mitterrand 35300 Fougères France,02 99 94 56 00,sp-fougeres-vitre-associations@ille-et-vilaine.gouv.fr,bretagne,ille-et-vilaine,48.350742,-1.2011042
+Greffe des associations - Alpes-de-Haute-Provence (Barcelonnette),Sous-préfecture de Barcelonnette 16 allée des Dames 04400 Barcelonnette,"04 92 36 77 86
+04 92 36 77 84",sp-barcelonnette@alpes-de-haute-provence.gouv.fr,provence-alpes-cote-d-azur,alpes-de-haute-provence,44.385162,6.655141
+Greffe des associations - Eure-et-Loir (Dreux),Sous-préfecture de Dreux Service des associations 2 rue des Capucins 28100 Dreux France,02 37 27 72 00,pref-associations-dreux@eure-et-loir.gouv.fr,centre-val-de-loire,eure-et-loir,48.73743,1.369863
+Greffe des associations - Hautes-Pyrénées (Argelès-Gazost),Sous-préfecture d'Argelès-Gazost 1 avenue Monseigneur-Flauss 65400 Argelès-Gazost France,05 62 97 71 71,sp-argeles@hautes-pyrenees.gouv.fr,occitanie,hautes-pyrenees,43.00188,-0.099001
+Greffe des associations - Val-de-Marne (Nogent-sur-Marne),Service des associations Sous-préfecture de Nogent-sur-Marne 4 avenue du Maréchal-de-Lattre-de-Tassigny 94736 Nogent-sur-Marne Cedex France,01 49 56 66 66,sp-nogent-associations@val-de-marne.gouv.fr,ile-de-france,val-de-marne,48.795326,2.4590023
+Greffe des associations - Gironde (Lesparre-Médoc),Sous-préfecture de Lesparre-Médoc Bureau des associations 4 allée du 8-Mai-1945 33341 Lesparre-Médoc Cedex France,05 56 90 60 60,sp-lesparre@gironde.gouv.fr,nouvelle-aquitaine,gironde,45.305813,-0.93519
+Greffe des associations - Saône-et-Loire (Louhans),Greffe des associations Sous-préfecture de Louhans 11 rue des Bordes 71500 Louhans France,"03 85 75 77 76
+03 85 75 77 77",sp-associations-louhans@saone-et-loire,bourgogne-franche-comte,saone-et-loire,46.627365,5.2248325
+Greffe des associations - Deux-Sèvres (Parthenay),Greffe des associations Sous-préfecture de Parthenay 20 boulevard de la Meilleraye 79200 Parthenay France,"05 49 94 19 33
+05 46 08 69 26",sp-parthenay@deux-sevres.gouv.fr,nouvelle-aquitaine,deux-sevres,46.645767,-0.248788
+Greffes des associations - Pyrénées-Orientales (Ceret),Sous Préfecture de Céret 6 boulevard Simon-Batlle 66400 Ceret France,04 68 51 67 40,sp-ceret-associations@pyrenees-orientales.gouv.fr,occitanie,pyrenees-orientales,42.48393,2.74566
+Greffe des associations - Ardennes (Charleville-Mézières),18 rue François-Mitterrand 08005 Charleville-Mézières Cedex France,03 10 07 33 86,,grand-est,ardennes,49.773876,4.713996
+Greffe des associations - Alpes-Maritimes (Nice),Préfecture des Alpes-Maritimes Bâtiment Pela 147 boulevard du Mercantour 06286 Nice Cedex 3 France,"04 93 72 25 33
+04 93 72 20 00",pref-associations@alpes-maritimes.gouv.fr,provence-alpes-cote-d-azur,alpes-maritimes,43.67538,7.19965
+Greffe des associations - Charente-Maritime (Jonzac),Sous-préfecture de Jonzac Service des associations 4 rue du Château 17000 Jonzac France,05 46 27 43 00,pref-associations@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,45.44599,-0.4316154
+Greffe des associations - Pyrénées-Atlantiques (Pau),Préfecture des Pyrénées-Atlantiques 2 rue du Maréchal-Joffre 64021 Pau Cedex,"05 59 98 24 24
+05 59 98 24 99",pref-associations@pyrenees-atlantiques.gouv.fr,nouvelle-aquitaine,pyrenees-atlantiques,43.296394,-0.370185
+Greffe des associations - Haut-Rhin (Mulhouse),Tribunal judiciaire de Mulhouse Cité Athéna 44 avenue Robert-Schuman 68000 Mulhouse France,03 89 35 42 42,associations.tj-mulhouse@justice.fr,grand-est,haut-rhin,47.753178,7.3443875
+Greffe des associations - Tarn-et-Garonne (Montauban),Greffe des associations Préfecture de Tarn-et-Garonne 2 allée de l'Empereur 82013 Cedex Montauban France,05 63 22 82 00,pref-associations@tarn-et-garonne.gouv.fr,occitanie,tarn-et-garonne,,
+Greffe des associations - Haute-Marne (Langres),Greffe des associations Sous-préfecture de Langres 8 rue Tassel 52200 Langres France,03 25 87 07 57,sous-prefecture-de-langres@haute-marne.gouv.fr,grand-est,haute-marne,47.86749,5.3341107
+Greffe des associations - Charente-Maritime (Rochefort),Sous-préfecture de Rochefort 21 rue Jean-Jaurès 17300 Rochefort France,05 46 27 46 43,sp-rochefort@charente-maritime.gouv.fr,nouvelle-aquitaine,charente-maritime,45.93795,-0.9595473
+Greffe des associations - Saône-et-Loire (Mâcon),Greffe des associations Préfecture de Saône-et-Loire 196 rue de Strasbourg 71021 Mâcon Cedex 9 France,03 85 21 81 00,pref-associations@saone-et-loire.gouv.fr,bourgogne-franche-comte,saone-et-loire,46.306606,4.8351545
+Greffe des associations - Haute-Loire (Le Puy-en-Velay),Direction départementale de la cohésion sociale et de la protection des populations de Haute-Loire 24 boulevard Alexandre-Clair 43000 Le Puy-en-Velay France,04 71 09 93 86,pref-associations@haute-loire.gouv.fr,auvergne-rhone-alpes,haute-loire,45.039078,3.881893
+Greffe des associations - Bas-Rhin (Saverne),Greffe des associations Tribunal judiciaire de Saverne 7 rue du Tribunal 67700 Saverne France,03 88 71 61 51,associations.tj-saverne@justice.fr,grand-est,bas-rhin,48.7406,7.3648534
+Greffe des associations - Vendée (Les Sables-d'Olonne),Greffe des associations Sous-préfecture des Sables-d'Olonne 54 avenue Georges-Pompidou 85100 Les Sables-d'Olonne France,02 51 23 93 94,sp-s-sables-d-olonne@vendee.gouv.fr,pays-de-la-loire,vendee,46.499645,-1.779885
+Greffe des associations - Alpes-de-Haute-Provence (Forcalquier),Bureau des associations 3 place Martial-Sicard 04301 Forcalquier Cedex France,04 92 36 77 45,pref-associations@alpes-de-haute-provence.gouv.fr,provence-alpes-cote-d-azur,alpes-de-haute-provence,43.960606,5.779359
+Greffe des associations - Haut-Rhin (Thann),Greffe des associations Tribunal dâ€™instance 41 place De-Lattre-de-Tassigny 68800 Thann France,03 89 37 08 48,associations.tprx-thann@justice.fr,grand-est,haut-rhin,,
+Greffe des associations - Seine-Maritime (Dieppe),Sous-préfecture de Dieppe 5 rue du 8-Mai-1945 76200 Dieppe France,"02 35 06 31 45
+02 35 06 30 21",sp-dieppe@seine-maritime.gouv.fr,normandie,seine-maritime,49.924335,1.0784494
+Greffe des associations - Haute-Loire (Brioude),Sous-préfecture de Brioude 4 rue du 14-Juillet 43100 Brioude France,"04 71 50 81 81
+04 71 50 81 84",sous-prefecture-de-brioude@haute-loire.pref.gouv.fr,auvergne-rhone-alpes,haute-loire,45.295563,3.386482
+Greffe des associations - Puy-de-Dôme (Riom),Service des associations Sous-préfecture de Riom 9 rue Gilbert-Romme 63200 Riom France,"04 73 64 65 00
+04 73 64 65 11",sp-riom-associations@puy-de-dome.gouv.fr,auvergne-rhone-alpes,puy-de-dome,45.89273,3.115009
+Greffe des associations - Eure-et-Loir (Châteaudun),Sous-préfecture de Châteaudun Service des associations 25 rue Jean-Moulin 28200 Châteaudun France,02 37 27 72 35,sp-chateaudun@eure-et-loir.gouv.fr,centre-val-de-loire,eure-et-loir,48.07214,1.3308483
+Greffe des associations - Ille-et-Vilaine (Redon),Sous-préfecture de Redon Service des associations Place Charles-de-Gaulle 35600 Redon France,02 99 71 14 04,,bretagne,ille-et-vilaine,47.652237,-2.0831132
+Greffe des associations - Côte-d'Or (Dijon),Préfecture de la Côte-d'Or 53 rue de la Préfecture 21000 Dijon France,03 80 44 64 00,pref-associations@cote-dor.gouv.fr,bourgogne-franche-comte,cote-d-or,47.324825,5.042427
+Greffe des associations - Hautes-Alpes (Briançon),Sous-préfecture de Briançon 42 avenue de la République 05105 Briançon Cedex France,04 92 25 47 16,pref-associations@hautes-alpes.gouv.fr,provence-alpes-cote-d-azur,hautes-alpes,44.898457,6.639668
+Greffe des associations - Val-de-Marne (L'Haÿ-les-Roses),Bureau de la réglementation générale - Section associations Sous-Préfecture de l'Haÿ-les-Roses 2 avenue Larroumès 94246 L'Haÿ-les-Roses Cedex France,01 49 56 65 19,pref-associations-lhay@val-de-marne.gouv.fr,ile-de-france,val-de-marne,48.777218,2.332693
+Greffe des associations - Haute-Loire (Yssingeaux),Sous-préfecture d'Yssingeaux 22 rue d'Alsace-Lorraine 43200 Yssingeaux France,"04 71 65 71 00
+04 71 65 71 04",sp-yssingeaux@haute-loire.gouv.fr,auvergne-rhone-alpes,haute-loire,45.142666,4.123734
